@@ -6,6 +6,7 @@ from .models import Greeting
 # Create your views here.
 def index(request):
     # return HttpResponse('Hello from Python!')
+    print("henlo")
     return render(request, "index.html")
 
 
@@ -19,12 +20,14 @@ def db(request):
     return render(request, "db.html", {"greetings": greetings})
 
 
-def analyzeUserTwitter(twitterHandle):
+@api_view(['POST'])
+def analyzeUserTwitter(request):
 	""" Takes in a twitter handle and returns a general sentiment analysis
 	score, based on:
 		- the user's own tweets
 		- the content tweeted by people whom this user follows
 	"""
+	print("analyzeUserTwitter received a request with some data! " + request.data.handle)
 
 	# twitterhandle may need to have the @ stripped off
 	if twitterHandle[0] == "@":
@@ -33,4 +36,6 @@ def analyzeUserTwitter(twitterHandle):
 	if "@" in twitterhandle:
 		# something's terribly wrong here :(
 		return -1
+
+
 	

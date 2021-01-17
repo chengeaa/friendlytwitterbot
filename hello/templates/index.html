@@ -6,10 +6,12 @@
 <script>
   function register_user() {
     $.ajax({
-      url: 'api/register_user/' + document.getElementById("twitterHandleArea").value,
-      type: 'PUT',
-      success: function(response) {alert("You're now registered with the friendly twitterbot! We got that your twitter was " + document.getElementById("twitterHandleArea").value);}
-    })
+      url: 'api/register_user/',
+      method: 'POST',
+      data: {handle: document.getElementById("twitterHandleArea").value, email: document.getElementById("exampleInputEmail1").value }
+    }).done(function( msg ) {
+                    alert("You're now registered with the friendly twitterbot! We got that your twitter was " + document.getElementById("twitterHandleArea").value);
+      });
   }
 </script>
 
