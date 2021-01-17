@@ -45,12 +45,12 @@ def get_all_tweets(screen_name):
         print(f"...{len(alltweets)} tweets downloaded so far")
     
     #transform the tweepy tweets into a 2D array that will populate the csv 
-    outtweets = [[tweet.id_str, tweet.created_at, tweet.text] for tweet in alltweets]
+    outtweets = [[screen_name, tweet.id_str, tweet.created_at, tweet.text] for tweet in alltweets]
     
     #write the csv  
     with open(f'new_{screen_name}_tweets.csv', 'w') as f:
         writer = csv.writer(f)
-        writer.writerow(["id","created_at","text"])
+        writer.writerow(["user_id","tweet_id","created_at","text"])
         writer.writerows(outtweets)
     
     pass
