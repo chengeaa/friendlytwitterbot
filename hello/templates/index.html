@@ -3,6 +3,16 @@
 
 {% block content %}
 
+<script>
+  function register_user() {
+    $.ajax({
+      url: 'api/register_user/' + document.getElementById("twitterHandleArea").value,
+      type: 'PUT',
+      success: function(response) {alert("You're now registered with the friendly twitterbot! We got that your twitter was " + document.getElementById("twitterHandleArea").value);}
+    })
+  }
+</script>
+
 <div class="jumbotron text-center">
   <div class="container">
     <a href="/" class="lang-logo">
@@ -30,7 +40,7 @@
 
       <form>
         <div class="form-group">
-          <label for="exampleInputTwitter">Twitter handle (include the @)</label>
+          <label for="exampleInputTwitter">Twitter handle (do not include the @)</label>
           <textarea class="form-control" id="twitterHandleArea" rows="1"></textarea>
         </div>
 
@@ -44,7 +54,7 @@
           <input type="checkbox" class="form-check-input" id="exampleCheck1">
           <label class="form-check-label" for="exampleCheck1">Look at my past tweets too (not just my new ones)</label>
         </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <button type="submit" class="btn btn-primary" onclick="register_user()">Submit</button>
       </form>
       
       
