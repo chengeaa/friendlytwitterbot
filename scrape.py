@@ -6,6 +6,8 @@
 import tweepy #https://github.com/tweepy/tweepy
 import csv
 
+import pandas as pd
+
 from keys import *
 
 
@@ -48,12 +50,16 @@ def get_all_tweets(screen_name):
     outtweets = [[screen_name, tweet.id_str, tweet.created_at, tweet.text] for tweet in alltweets]
     
     #write the csv  
-    with open(f'new_{screen_name}_tweets.csv', 'w') as f:
-        writer = csv.writer(f)
-        writer.writerow(["user_id","tweet_id","created_at","text"])
-        writer.writerows(outtweets)
+#    with open(f'new_{screen_name}_tweets.csv', 'w') as f:
+#        writer = csv.writer(f)
+#        writer.writerow(["user_id","tweet_id","created_at","text"])
+#        writer.writerows(outtweets)
+
+    outtweets = pd.DataFrame(outtweets)
+    outtweets.columns = ["user_id","tweet_id","created_at","text"]
+    outtweets.to_csv("test.csv")
+    return outtweets
     
-    pass
 
 
 if __name__ == '__main__':
