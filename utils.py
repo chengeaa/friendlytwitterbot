@@ -11,10 +11,10 @@ auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_key, access_secret)
 api = tweepy.API(auth)
 
-def get_all_tweets(screen_name):
+def get_tweets(screen_name):
     """
     Takes a screen name, returns a df of their recent tweets.
-    Also saves it as a csv of 
+    Also saves it as a csv of tweets in  new_{screen_name}_tweets.csv
     """
     #Twitter only allows access to a users most recent 3240 tweets with this method
     
@@ -62,7 +62,7 @@ def get_all_tweets(screen_name):
 
 def load_tweets(screen_name):
     return pd.read_csv(f"new_{screen_name}_tweets.csv")
-def sample_analyze_sentiment(text_content):
+def get_sentiment(text_content):
     """
     Analyzing Sentiment in a String
 
@@ -74,7 +74,6 @@ def sample_analyze_sentiment(text_content):
 
     client = language_v1.LanguageServiceClient()
 
-    # text_content = 'I am so happy and joyful.'
 
     # Available types: PLAIN_TEXT, HTML
     type_ = language_v1.Document.Type.PLAIN_TEXT
@@ -82,9 +81,9 @@ def sample_analyze_sentiment(text_content):
     # Optional. If not specified, the language is automatically detected.
     # For list of supported languages:
     # https://cloud.google.com/natural-language/docs/languages
-#    language = "en"
-#    document = {"content": text_content, "type_": type_, "language": language}
-    document = {"content": text_content, "type_": type_}
+    language = "en"
+    document = {"content": text_content, "type_": type_, "language": language}
+#    document = {"content": text_content, "type_": type_}
 
     # Available values: NONE, UTF8, UTF16, UTF32
     encoding_type = language_v1.EncodingType.UTF8
