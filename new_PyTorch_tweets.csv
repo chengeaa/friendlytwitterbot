@@ -1,0 +1,320 @@
+,user_id,tweet_id,created_at,text
+0,PyTorch,1348666532960768008,2021-01-11 16:22:13,"RT @catalyst_core: Excited to announce the 20.12-course edition!
+
+It is a deep learning course on @PyTorch that covers:
+- numpy and backpro…"
+1,PyTorch,1346919678946516998,2021-01-06 20:40:50,"RT @D2L_ai: Check out our brand-new attention chapter, such as simpler illustrations using Nadaraya-Watson kernel regression (1964) before…"
+2,PyTorch,1346850145929895936,2021-01-06 16:04:32,FairTorch secured the first place at the Summer Hackathon 2020 in the Responsible AI category. The tool allows you… https://t.co/Hnc2JB1XdP
+3,PyTorch,1346466660744511492,2021-01-05 14:40:42,"[Release] TorchServe 0.3 includes new integrations for: Kubelow/KFServing, Captum for model interpretability, MLflo… https://t.co/Env5sfz2RP"
+4,PyTorch,1346186215985278979,2021-01-04 20:06:19,"In this short presentation, Siqi Yan showcases how to use TensorBoard to visualize PyTorch models, including monito… https://t.co/OZ9XR3t9aC"
+5,PyTorch,1346135956617760769,2021-01-04 16:46:36,"RT @OpenMMLab: Excited to announce a new member of OpenMMLab: MMTracking!
+
+It is a video perception toolbox based on @PyTorch that supports…"
+6,PyTorch,1341758665523482624,2020-12-23 14:52:49,Copying example code snippets from https://t.co/dcYVzbPTqs tutorials can now be done with one click ✅ . Watch the v… https://t.co/drtqYctGLN
+7,PyTorch,1341449083802644480,2020-12-22 18:22:39,"Our community member from Japan, Yutaro Ogawa, shares the PyTorch Tutorials in Japanese.
+
+        コミュニティメンバの小川さん（電通… https://t.co/V0AJbwNOQu"
+8,PyTorch,1341204270612439043,2020-12-22 02:09:51,RT @ThomasViehmann: How does the @PyTorch JIT accelerate models with the help of fusers? My new tutorial takes you from 0 to fusion with co…
+9,PyTorch,1341076837934383105,2020-12-21 17:43:28,"RT @jbhuang0604: The wait is over! 
+
+@gaochen315 released the video completion code in @GoogleColab. 
+https://t.co/7raLq7jVQx 
+
+No environm…"
+10,PyTorch,1339626943768002560,2020-12-17 17:42:07,Learn how the @mytheator team has built a video-based analysis platform that helps extract in-detailed and meaningf… https://t.co/KXFWBO835e
+11,PyTorch,1338892581980147713,2020-12-15 17:04:01,"RT @_krishna_murthy: Today we release gradslam - automagically differentiable SLAM. Run dense 3D reconstruction in @PyTorch!
+
+And, it's ful…"
+12,PyTorch,1338568008294252544,2020-12-14 19:34:17,pystiche is a PyTorch framework for Neural Style Transfer. It is one of the winners of 2019 PyTorch Summer Hackatho… https://t.co/skkvBW3T6Z
+13,PyTorch,1337085749343055872,2020-12-10 17:24:19,"PyTorch v1.7.1  is now available. This release includes bug fixes, python 3.9 binaries, and the upgrade to cuDNN 8.… https://t.co/Tev7A9y7nO"
+14,PyTorch,1336691873184792578,2020-12-09 15:19:11,Congratulations @graphcoreai!
+15,PyTorch,1336688242456817664,2020-12-09 15:04:46,Graphcore announced its first production release of PyTorch for the IPU - combining the performance of the Graphcor… https://t.co/kFlgNcpdTv
+16,PyTorch,1336020686427459585,2020-12-07 18:52:08,"RT @edgarriba: gradSLAM: Dense SLAM meets automatic differentiation.
+
+new generation SLAM with @PyTorch and @kornia_foss 
+#opensource #comp…"
+17,PyTorch,1335956370865025025,2020-12-07 14:36:34,"RT @honualx: I have extended Julius with some extra features: FFT convolutions, FIR filters and decomposition over frequency bands in the w…"
+18,PyTorch,1334922619095674880,2020-12-04 18:08:48,PyGeneses is a Deep Reinforcement Learning framework that attempts to simulate artificial agents in bio-inspired en… https://t.co/dii1rU5WIh
+19,PyTorch,1334499785403842561,2020-12-03 14:08:37,RT @LightlyAI: We are excited to just have released our open-source library for self-supervised learning! https://t.co/uIZVqLNjZz Try it ou…
+20,PyTorch,1333381153907044352,2020-11-30 12:03:34,All PyTorch Developer Day 2020 presentations are available now. Watch the full livestream: https://t.co/uVyXpRr5yc
+21,PyTorch,1328412817922244608,2020-11-16 19:01:11,@londonciao Yes. The videos will be available by at the end of this week.
+22,PyTorch,1328402973408468993,2020-11-16 18:22:04,"Here are 4 PyTorch prototype features launched last week:
+- DSP and NPUs using the Android NNAPI
+- GPU execution on… https://t.co/qzdvyD7Kg7"
+23,PyTorch,1327060330363588608,2020-11-13 01:26:53,"Huge thanks to @MLflow's great partnership, we announced a number of technical contributions to enable end-to-end s… https://t.co/y5SZKsIR44"
+24,PyTorch,1327010885676662784,2020-11-12 22:10:24,PyTorch is excited to partner with OpenMined to make private AI education more accessible for everyone. https://t.co/6fIHaEhzaM
+25,PyTorch,1326971475048316929,2020-11-12 19:33:48,We apologize for running faster than our original schedule. Here is the updated agenda for the PyTorch Developer Da… https://t.co/EFLWXyjiPU
+26,PyTorch,1326949835132432385,2020-11-12 18:07:48,"[Announcing at PyTorch DevDay Livestream: https://t.co/uNSqJwDA0e] 
+
+NNAPI support for PyTorch allows Android apps… https://t.co/gUNbnuustI"
+27,PyTorch,1326934467903098882,2020-11-12 17:06:45,@thomasjo Recordings will be available later this week on Youtube
+28,PyTorch,1326917142500007939,2020-11-12 15:57:54,"The first PyTorch Developer Day is about to kick off. Join us for the full day of talks, including keynotes, PyTorc… https://t.co/9L9xco18FR"
+29,PyTorch,1326914249386586112,2020-11-12 15:46:24,Unofficial watch party in the @fastdotai discord: https://t.co/8xWbzqQ1MB https://t.co/rumA16lMge
+30,PyTorch,1326913584484528129,2020-11-12 15:43:46,RT @dfalbel: Tomorrow @austinvhuang and I will be speaking about bringing @PyTorch to new programming languages. https://t.co/dwXbsJqpjC ht…
+31,PyTorch,1325460180084011011,2020-11-08 15:28:27,@audracarpenter Thank you for your interest! All talks will be livestreamed and available to the public:… https://t.co/HUNWKCDwwk
+32,PyTorch,1325459357505478658,2020-11-08 15:25:11,"The PyTorch Developer Day keynotes and presentations will livestream on Thursday, November 12 at 8AM PST. No regist… https://t.co/s3RFAFbh17"
+33,PyTorch,1323154082157137921,2020-11-02 06:44:50,"We're excited to announce our first PyTorch Developer Day starting 8 AM on November 12, 2020 PST. Learn more:… https://t.co/Gs9VXdxKPL"
+34,PyTorch,1322287620689432583,2020-10-30 21:21:50,"RT @ai2_allennlp: This release comes with official support for
+✅ Python 3.8 (long overdue 😅)
+✅ @PyTorch 1.7
+✅ @huggingface transformers 3.4…"
+35,PyTorch,1322267752862674944,2020-10-30 20:02:53,"@arpieb This is a Facebook CLA, which like the CLAs of other projects, is modeled after Apache CLA. https://t.co/HpqFNnAN04"
+36,PyTorch,1322218722476482561,2020-10-30 16:48:03,"We are transitioning to requiring CLAs for code contributions, following other large open source projects. Read mor… https://t.co/ag3FTovw4O"
+37,PyTorch,1321527760129437697,2020-10-28 19:02:25,"RT @ThomasViehmann: On the occasion of the new @PyTorch version:
+ PyTorch 1.7 + TorchVision 0.8.1 built for 
+@Raspberry_Pi
+ OS 64bit at htt…"
+38,PyTorch,1321498242375241728,2020-10-28 17:05:07,"Visual Transformer with pre-trained weights, now available thanks to the fantastic @wightmanr https://t.co/mwqylvyBnm"
+39,PyTorch,1321154518629822469,2020-10-27 18:19:17,"v1.7: CUDA 11 supported with binaries on https://t.co/dcYVzbPTqs, updated profiling/performance for RPC, TorchScrip… https://t.co/M1CXEJcFjA"
+40,PyTorch,1319287964933865472,2020-10-22 14:42:16,Thanks to @weights_biases for the great partnership!
+41,PyTorch,1319287722486370305,2020-10-22 14:41:18,The team @WadhwaniAI  has built a multi-task network that detects pest infestations in cotton crops. This technolog… https://t.co/18iZGRhmEi
+42,PyTorch,1318948214813306880,2020-10-21 16:12:13,Thanks @PyTorchLightnin team!
+43,PyTorch,1318948075369496577,2020-10-21 16:11:40,"PyTorch Lightning 1.0.0 is now available. This is the final stable API to train and deploy models at scale, without… https://t.co/HKIoQ0Dn9b"
+44,PyTorch,1318728576154226688,2020-10-21 01:39:28,Thanks @PreferredNet!
+45,PyTorch,1318728415189463040,2020-10-21 01:38:49,"PreferredNet is moving ChainerRL to the PyTorch ecosystem. With a heavy emphasis on reproducibility, PFRL users hav… https://t.co/sLgTZDZX9W"
+46,PyTorch,1316483017309732864,2020-10-14 20:56:25,Thank you @catalyst_core!
+47,PyTorch,1316461456636821505,2020-10-14 19:30:44,"MONAI, a PyTorch framework for healthcare imaging, released v0.3. This new release includes GPU acceleration throug… https://t.co/5aldqlynNn"
+48,PyTorch,1316228421358252034,2020-10-14 04:04:44,"RT @ceyda_cinarel: New blogpost🎉: https://t.co/ToTJxbifzc
+Getting started with #TorchServe @PyTorch"
+49,PyTorch,1316228376965726208,2020-10-14 04:04:34,"RT @ceyda_cinarel: Also introducing: TorchServe Management Dashboard @PyTorch
+https://t.co/x4TaKnAHqo
+Made with @streamlit using the new la…"
+50,PyTorch,1316128035960025088,2020-10-13 21:25:50,"The robotics team @arrival, a zero-emission solutions company, demonstrates how to apply deep reinforcement learnin… https://t.co/MwJY5VM6FC"
+51,PyTorch,1316051698721333248,2020-10-13 16:22:30,"RT @exoplaneteer: On this week's @FlatironCCA Astro Data blog, I share a project led by James Hitchcock (in collab with me, et al.) to acce…"
+52,PyTorch,1315994259468611590,2020-10-13 12:34:16,Optuna helps simplify and optimize the process of tuning hyperparameters for machine learning projects. Watch how O… https://t.co/5LXY03GxoV
+53,PyTorch,1313882271544307712,2020-10-07 16:41:58,Thank you @LyftLevel5 for the collaboration!
+54,PyTorch,1313881938126536704,2020-10-07 16:40:39,Lyft Level 5 has adopted #PyTorch to build an internal framework for their ML efforts as they build self-driving te… https://t.co/4Ycv7n4eG4
+55,PyTorch,1313855166903279616,2020-10-07 14:54:16,RT @the_antlr_guy: Introducing TensorSensor: a lib that clarifies exceptions by augmenting messages + visualizing Python code to indicate s…
+56,PyTorch,1313582849774166016,2020-10-06 20:52:11,"NeMo, @NVIDIA’s open-source toolkit based on #PyTorch, allows you to quickly build, train, and fine-tune conversati… https://t.co/WQdSScB3Vx"
+57,PyTorch,1313179866053767170,2020-10-05 18:10:52,"RT @pytorch_ignite: PyTorch-Ignite v0.4.2 is available with improved distributed support (horovod framework, epoch-wise metrics, etc), new…"
+58,PyTorch,1312908232281616384,2020-10-05 00:11:29,"RT @ThomasViehmann: If the power of @PyTorch comes from Tensors and Modules, what superpower would you get when combining them? Would it be…"
+59,PyTorch,1312908179303403522,2020-10-05 00:11:17,"RT @_ScottCondron: Creating widgets in Jupyter is a good way to interact with @PyTorch layers.
+
+I wanted to intuitively know how padding an…"
+60,PyTorch,1312882710415896576,2020-10-04 22:30:05,"RT @goodfellow_ian: This exciting new PyTorch library includes quite a lot of the GANs I've featured in my talks over the past few years, a…"
+61,PyTorch,1312882551611174912,2020-10-04 22:29:27,"RT @liu_mingyu: Introducing #Imaginaire
+a #PyTorch library with optimized implementations of several #GAN image and video synthesis methods…"
+62,PyTorch,1311704854121783297,2020-10-01 16:29:42,"This year's Global PyTorch Summer Hackathon saw over 2,500 participants from 114 different countries. Please meet t… https://t.co/2C6Yc7FBCt"
+63,PyTorch,1311580032934969344,2020-10-01 08:13:42,"RT @zhoubolei: No accepted papers, I am still happy to announce we open-source GenForce, an efficient PyTorch library for generative modeli…"
+64,PyTorch,1311346127019495425,2020-09-30 16:44:14,PyTorch and Azure ML help the Biological Insights Knowledge Graph team @AstraZeneca build a data pipeline that asse… https://t.co/nH1iNFTXCr
+65,PyTorch,1311023639039373312,2020-09-29 19:22:47,"@rstudio introduces Torch for R, an R package that allows researchers to use PyTorch functionality natively from R.… https://t.co/tnAHnvrXIt"
+66,PyTorch,1310974060214403077,2020-09-29 16:05:47,"PyTorch/XLA, a package that lets PyTorch connect to @GCPcloud TPUs and use TPU cores as devices, is now generally a… https://t.co/JG9qLh7Mdr"
+67,PyTorch,1310789037129568256,2020-09-29 03:50:34,TorchServe is now natively supported in Amazon SageMaker as the default model server for PyTorch inference. This bl… https://t.co/iCULrZxfvs
+68,PyTorch,1310725447232057344,2020-09-28 23:37:53,RT @TDataScience: Introducing PyTorch Forecasting https://t.co/heQZvtnfej
+69,PyTorch,1310645643082301440,2020-09-28 18:20:46,"Our community member from Japan, Yutaro Ogawa, shares  how to start Deep Reinforcement Learning with AllenAct in Ja… https://t.co/a1OUeOTVNU"
+70,PyTorch,1308803947344216064,2020-09-23 16:22:32,"Silero AI adds fast and accurate speech recognition models for English, German and Spanish to the PyTorch Hub.
+Try… https://t.co/i5rQg0Ln0I"
+71,PyTorch,1308310331597307904,2020-09-22 07:41:04,"RT @Scitator: [RU] I am thrilled to announce, that we are starting a Deep Learning course on @catalyst_core in collaboration with our acade…"
+72,PyTorch,1308052064040181760,2020-09-21 14:34:49,"Mars Petcare built “TurdNet” with PyTorch to ensure the health of your pet and improve consistency, accuracy and ti… https://t.co/yLpDA3UyGL"
+73,PyTorch,1306815802520137728,2020-09-18 04:42:21,RT @mrm8488: 📒Colab for: Fine-tuning a deep-learning model (bert-base-cased) with @huggingface 🤗Datasets library and @PyTorch (included in…
+74,PyTorch,1306625291486257153,2020-09-17 16:05:20,"Neural Guard, a tech company focused on AI-powered threat detection, built its X-Ray &amp; CT Scanning AI production pi… https://t.co/qK3bb6Lbhf"
+75,PyTorch,1305576850672869377,2020-09-14 18:39:12,"RT @huggingface: 🔥Transformers' first-ever end-2-end multimodal demo was just released, leveraging LXMERT, SOTA model for visual Q&amp;A!
+
+Mode…"
+76,PyTorch,1305576837834141696,2020-09-14 18:39:09,RT @pytorch_ignite: Tutorial blog post about PyTorch-Ignite on @quansightai Labs: uncompromised flexibility and transparency for training a…
+77,PyTorch,1305576024491483137,2020-09-14 18:35:55,Learn how to use Allegro Trains’ (a DL experiment manager) built-in integration with Optuna (a hyperparameter optim… https://t.co/umBGtaXcRy
+78,PyTorch,1304181820486029316,2020-09-10 22:15:51,RT @zenlytix: Another huge release from DeepSpeed #ML library for @Pytorch from @Microsoft with lots of #deeplearning innovations to run th…
+79,PyTorch,1304172391254208513,2020-09-10 21:38:23,"The full hands-on tutorials, ""Building Recommender Systems with PyTorch"", are now available. We show how to build d… https://t.co/KjLBAGv27Z"
+80,PyTorch,1304125686920159232,2020-09-10 18:32:47,"RT @OpenMMLab: MMDetection V2.4.0 is released!
+What is new:
+- Support new methods like YOLOv3, SABL and PAA Assign
+- Support batch inferenc…"
+81,PyTorch,1304109144362766337,2020-09-10 17:27:03,Bolts is a new Deep Learning research and production toolbox from PyTorch Lightning. Iterate faster with pre-traine… https://t.co/AbCfmdrQRF
+82,PyTorch,1304063098660286467,2020-09-10 14:24:05,"RT @madlag: Today I am excited to release pytorch-block-sparse: a *drop-in* replacement of @PyTorch Linear with GPU-efficient sparsity:
+
+75…"
+83,PyTorch,1303939421633310720,2020-09-10 06:12:38,RT @op_prabhuomkar: pytorch-cpp now supports PyTorch's Popular 60-Minute Blitz in C++. We are open for tutorial requests and contributors t…
+84,PyTorch,1303779983886749696,2020-09-09 19:39:05,"RT @kornia_foss: Quaternionic keypoint description for multispectral imaging
+G Sfikas, D Ioannidis, D Tzovaras 
+Idea: treat RGB+ NIR as qua…"
+85,PyTorch,1303779957710057472,2020-09-09 19:38:59,RT @mstewart141: i've written up a summary of how @Opendoor 🏡 leverages deep learning (via @PyTorch 🔥 @PyTorchLightnin ⚡️) to accurately va…
+86,PyTorch,1303779826726178816,2020-09-09 19:38:28,RT @dalmiaman: A key aspect of building for the developing world is enabling offline inference. We (@WadhwaniAI) share how we used model co…
+87,PyTorch,1303779776486731776,2020-09-09 19:38:16,"RT @openminedorg: Combining Differential Privacy and @PyTorch just became easy!
+
+Excited to share this step-by-step #beginner #notebook 
+
+t…"
+88,PyTorch,1303779660619108352,2020-09-09 19:37:48,"RT @catalyst_core: Our new minimal example on hyperparameters optimization with @OptunaAutoML is here!
+With implemented trials pruning call…"
+89,PyTorch,1302975068335734790,2020-09-07 14:20:39,"RT @_RichardWang_: Replementation of ELECTRA (@clark_kev et al. from @stanfordnlp) with @fastdotai + @huggingface
+
+💻Code:https://t.co/9bnj1…"
+90,PyTorch,1302975019807584258,2020-09-07 14:20:27,"RT @ThomasViehmann: Get @PyTorch PyTorch 1.6 + TorchVision 0.7 built for @Raspberry_Pi OS 64bit at https://t.co/2YJ61gZkIM
+
+What will you b…"
+91,PyTorch,1302740353791991812,2020-09-06 22:47:58,"RT @rzhang88: Ask any graphics or signal processing person: *not antialiasing* and ignoring Nyquist sampling theorem is a bug
+
+pip install…"
+92,PyTorch,1301963970321014784,2020-09-04 19:22:54,"RT @honualx: We are releasing the code for our Interspeech paper ""Real Time Enhancement in the Waveform Domain"" with @syhw and @adiyossLC .…"
+93,PyTorch,1301936045479452672,2020-09-04 17:31:56,"RT @NVIDIAAIDev: Free #DeepLearning Bootcamp: Get started with the open source @ProjectMONAI medical imaging #AI library, Sept 30 – Oct 2 h…"
+94,PyTorch,1301270200210259968,2020-09-02 21:26:06,Aditya Oke wrote a beginner tutorial on how to create a simple image search engine using PyTorch. The blog post wal… https://t.co/HxgHqMxJZw
+95,PyTorch,1300951817254105089,2020-09-02 00:20:58,Catalyst is a PyTorch library that helps you write DL pipelines with a few lines of code. It now offers metric lear… https://t.co/V5qB83dpQH
+96,PyTorch,1300809060183203840,2020-09-01 14:53:42,We’re starting the blog post series on a Differentially Private Stochastic Gradient Descent Algorithm that will ran… https://t.co/LFgWIoshBv
+97,PyTorch,1300522635047178241,2020-08-31 19:55:33,RT @allen_ai: AllenAct is our new #EmbodiedAI library with first-class @PyTorch support – one of the few reinforcement learning frameworks…
+98,PyTorch,1300486463805468677,2020-08-31 17:31:49,Thank you @openminedorg for the great partnership.
+99,PyTorch,1300485926494244865,2020-08-31 17:29:41,Opacus is a new library that enables PyTorch training models with differential privacy. It defines a lightweight AP… https://t.co/R0hWMh9SVL
+100,PyTorch,1300266938082361345,2020-08-31 02:59:30,"RT @karpathy: good quick tutorial on optimizing your PyTorch code ⏲️: https://t.co/7CIDWfrI0J 
+quick summary: https://t.co/6J1SJcWJsl"
+101,PyTorch,1299772557231493120,2020-08-29 18:15:00,"Follow along with @jeremyphoward and @math_rachel as they go through a preview of the first lesson of his new book,… https://t.co/T6CBtC73AO"
+102,PyTorch,1299081758072123392,2020-08-27 20:30:01,"RT @alfcnz: This Tuesday in class we listened 🔊 to convolutional kernels and outputs, and read 🤓 a music score 🎼 with the help of an extern…"
+103,PyTorch,1298753418438221824,2020-08-26 22:45:19,"Our community member from Japan, Yutaro Ogawa, shares how to get started with PyTorch  in Japanese in three-part bl… https://t.co/RV7YpDvuj2"
+104,PyTorch,1298330248958754816,2020-08-25 18:43:47,"RT @karpathy: I wrote a minimal/educational GPT training library in PyTorch, am calling it minGPT as it is only around ~300 lines of code:…"
+105,PyTorch,1297994153976983552,2020-08-24 20:28:16,torchcsprng is a PyTorch C++/CUDA extension that provides cryptographically secure pseudorandom number generators f… https://t.co/TtAjvYE0Yw
+106,PyTorch,1297953924226224128,2020-08-24 17:48:25,"RT @OptunaAutoML: Optuna reaches #2 in Github trending Python projects 🚀
+https://t.co/0832sdE8qL https://t.co/rqWbjYHCys"
+107,PyTorch,1297953786086924288,2020-08-24 17:47:52,"RT @PreferredNet: The Reinforcement Learning baselines from PFRL are now available for the 2020 #NeurIPS #MineRL competition! 
+Can you impr…"
+108,PyTorch,1297935685345714176,2020-08-24 16:35:56,Tomorrow is the last day of the Global PyTorch Summer Hackathon. Make sure to submit your projects by 5:00 PM Easte… https://t.co/hAeOrtyIwR
+109,PyTorch,1297701131410276352,2020-08-24 01:03:54,"RT @Scitator: Interested in Metric Learning or Few-Shot Learning?
+Check out our 20.08 release (coming soon) with Metric Learning features!…"
+110,PyTorch,1297619193471234048,2020-08-23 19:38:18,"RT @jeremyphoward: Today is https://t.co/GEOZuodrZj’s biggest day in our four year history. We are releasing our new course, fastai v2, fas…"
+111,PyTorch,1297445884645396480,2020-08-23 08:09:38,"PyTorch Lightning V0.9 is available now featuring the final API with better data decoupling, shorter logging syntax… https://t.co/iCY8kPgNhM"
+112,PyTorch,1295846741846061056,2020-08-18 22:15:13,Stochastic Weight Averaging (SWA) is a simple procedure that improves generalization in deep learning over Stochast… https://t.co/csi2T9FdUd
+113,PyTorch,1295481660335509505,2020-08-17 22:04:31,"RT @omarsar0: Language Interpretability Tool (LIT) 🔥
+
+LIT is an open-source, interactive tool intended for inspecting NLP models.
+
+It may h…"
+114,PyTorch,1294297294532046849,2020-08-14 15:38:16,"In this beginner tutorial, Alfredo and William walk through how to create a PyTorch classification model from scrat… https://t.co/BoeYheVHKy"
+115,PyTorch,1293602001876467712,2020-08-12 17:35:25,"TorchServe v0.2.0 is available now with features for Kubernetes deployments, Prometheus metrics, Load Balanced mult… https://t.co/0qLXs9QksH"
+116,PyTorch,1293341809502953473,2020-08-12 00:21:31,Only two weeks left to submit your projects to the Global PyTorch Summer Hackathon - https://t.co/AHaffIwgk1. https://t.co/bl84zIxtj3
+117,PyTorch,1293261564812828672,2020-08-11 19:02:39,WebDataset is a PyTorch dataset that scales. It is backed by the POSIX tar standard and is simple yet efficient. Le… https://t.co/pnjEw3MSqV
+118,PyTorch,1292889930562068483,2020-08-10 18:25:54,"RT @kornia_foss: Kornia v0.4.0 is out ! Support to @PyTorch 1.6.0, local descriptors matching, homography, epipolar geometry and 3D data au…"
+119,PyTorch,1292885553893974016,2020-08-10 18:08:31,"Deepspeech.pytorch provides training, evaluation, and inference of End-to-End speech to text models, DeepSpeech2 ar… https://t.co/4iySpWsCuR"
+120,PyTorch,1291681931310977024,2020-08-07 10:25:45,"RT @Scitator: I am thrilled to announce Catalyst 20.08 feature preview - TPU support without code changes!
+https://t.co/WaFPQ2UL7R
+
+Powered…"
+121,PyTorch,1291410026221858816,2020-08-06 16:25:18,Blue River Technology builds an intelligent sprayer that leverages PyTorch to targets weeds without harming crops.… https://t.co/98SVxzuGo5
+122,PyTorch,1291051993771859970,2020-08-05 16:42:36,"AllenNLP is now integrated with Optuna, a hyperparameter optimization library, enabling users to reuse an AllenNLP… https://t.co/TPbhrOa4Zs"
+123,PyTorch,1288899286298574849,2020-07-30 18:08:31,"In this tutorial, Microsoft walks through the steps to take a PyTorch model and deploy it into the Azure Functions… https://t.co/RljUHidc3h"
+124,PyTorch,1288740106916880385,2020-07-30 07:35:59,"RT @OptunaAutoML: Optuna 2.0, the next major evolution of Optuna is here!
+
+2.0 introduces hyperparameter importance to see which hyperparam…"
+125,PyTorch,1288163832192364544,2020-07-28 17:26:05,"Updated feature designations for PyTorch: Stable, Beta, and Prototype. With this change, we want to explicitly defi… https://t.co/GSnz5GsHOt"
+126,PyTorch,1288163374287581184,2020-07-28 17:24:16,"Automatic Mixed Precision is now natively integrated with PyTorch. Highlights include:
+
+- Version compatibility
+- N… https://t.co/NgX46zSlRJ"
+127,PyTorch,1288162426286874630,2020-07-28 17:20:29,Microsoft expands its participation in the PyTorch community and picks up the development and maintenance of the Py… https://t.co/G6dCjroae8
+128,PyTorch,1288161964728782848,2020-07-28 17:18:39,"v1.6: native mixed-precision support from NVIDIA (~2x perf improvement), distributed perf improvements, new profili… https://t.co/HDqZYPAkJ1"
+129,PyTorch,1287809084247293952,2020-07-27 17:56:26,There are less than 30 days left to submit your projects to PyTorch Global Summer Hackathon 2020. Learn more: https://t.co/AHaffIwgk1
+130,PyTorch,1285234454131171329,2020-07-20 15:25:47,The online submission for Low-Power Compute Vision Challenge (LPCV) - Online UAV Video Track is open now until July… https://t.co/x4TSpOxvQW
+131,PyTorch,1284174314963496960,2020-07-17 17:13:10,@catalyst_core
+132,PyTorch,1284174094808657920,2020-07-17 17:12:17,"Catalyst 20.07 release includes:
+- Train Flow improvements such as BatchOverfitCallback, PeriodicLoaderCallback
+- M… https://t.co/aKGJfWEvI9"
+133,PyTorch,1284155644967358465,2020-07-17 15:58:58,"RT @OpenMMLab: The FIRST comprehensive image and video editing toolbox on @PyTorch! We released MMEditing, which supports multiple low-leve…"
+134,PyTorch,1283924299615571971,2020-07-17 00:39:41,TorchServe is a flexible and easy to use tool for serving PyTorch models. Here is a quick 10-minute tutorial: https://t.co/H1h9mE8OYR
+135,PyTorch,1283795011851567105,2020-07-16 16:05:57,Disney uses PyTorch for animated character recognition and to speed up its video processing pipeline.… https://t.co/fSnjac2QYj
+136,PyTorch,1283414528286433280,2020-07-15 14:54:02,"RT @OpenMMLab: We released MMSegmentation, a unified and standardized toolkit for semantic segmentation on @PyTorch. 
+
+MMSeg supports 10+ m…"
+137,PyTorch,1283087654771396608,2020-07-14 17:15:10,"RT @ApacheTVM: Bridging PyTorch and TVM https://t.co/KhzNP89lpX by @ThomasViehmann  talks about using TVM to deploy 🤗 bert on AMD GPUs, and…"
+138,PyTorch,1283057642399653888,2020-07-14 15:15:54,"RT @openminedorg: As part of @PyTorch - OpenMined grants, 
+
+we’re happy to announce 4 new libraries for #FederatedLearning
+
+syft.js 
+Kotlin…"
+139,PyTorch,1283052191037755395,2020-07-14 14:54:14,Quantization leverages 8bit integer (int8) instructions to reduce the model size and run the inference faster (redu… https://t.co/ZWZC0Pgexe
+140,PyTorch,1282785850305081345,2020-07-13 21:15:54,"Captum - a model interpretability library for PyTorch, and Fiddler - an Explainable AI platform, are partnering to… https://t.co/7NeDRiQRqE"
+141,PyTorch,1282774657599299584,2020-07-13 20:31:25,"@SBabruwad No, these are available for ICML attendees."
+142,PyTorch,1282685272992280576,2020-07-13 14:36:14,"Here's the list of live PyTorch Q&amp;As on Wednesday, July 15 at #icml2020. The conference attendees can find links in… https://t.co/l0u2ZZ5WY1"
+143,PyTorch,1282674760082771971,2020-07-13 13:54:28,"RT @ccloy: MMDetection3D is an open-source 3D object detection toolbox based on PyTorch.
+
+- Support multi-modality/single-modality detector…"
+144,PyTorch,1282038313885462528,2020-07-11 19:45:27,"MONAI now includes research publications its own implementation for:
+- COPLE-Net: COVID-19 Pneumonia Lesion Segment… https://t.co/FK0GPHS0Pr"
+145,PyTorch,1281813678744956929,2020-07-11 04:52:50,"RT @Scitator: Interested in healthcare imaging? Check out new example on 3d image segmentation with MONAI and Catalyst!
+https://t.co/blzPMT…"
+146,PyTorch,1281685041731342336,2020-07-10 20:21:41,"RT @alfcnz: Week ⑪ videos 🎥 are up! 🎉
+
+Lecture: https://t.co/2HzhcSTlFC
+Practicum: https://t.co/vxnGk5baZE
+Transcript: https://t.co/yzPxvEs…"
+147,PyTorch,1281685015458222081,2020-07-10 20:21:34,"RT @DavidDuvenaud: We just open-sourced differentiable SDE solvers in PyTorch:
+https://t.co/v1f08mjgCq
+Now you can put stochastic different…"
+148,PyTorch,1281626876549595137,2020-07-10 16:30:33,"Jirka, Lead contributor for Lightning, and Zach, ML Engineer at Google, discuss how PyTorch Lightning became the fi… https://t.co/Uelf4ujyaC"
+149,PyTorch,1281315051710775297,2020-07-09 19:51:28,"Allegro Trains, a full system ML/DL experiment manager, versioning, and ML-Ops solution, joined the PyTorch Ecosyst… https://t.co/Jri1vnyGTq"
+150,PyTorch,1281249442398519296,2020-07-09 15:30:46,"Thanks, Michela Paganini (@WonderMicky) for the content"
+151,PyTorch,1281247199678984199,2020-07-09 15:21:51,"Michela Paganini, Postdoctoral Researcher, shares her personal experience creating a core PyTorch feature: Pruning… https://t.co/17dqKW4LKl"
+152,PyTorch,1280233292852105218,2020-07-06 20:12:57,"Short educational talks on various PyTorch topics such as the latest updates, Pruning, Torchaudio, PyTorch3D, PyTor… https://t.co/b4GfFmxkTk"
+153,PyTorch,1280183382891065351,2020-07-06 16:54:37,https://t.co/NLhR1C5oCU
+154,PyTorch,1280180078966530053,2020-07-06 16:41:30,"The full version of the Deep Learning with PyTorch book from Luca Antiga, Eli Stevens, and Thomas Viehmann is now a… https://t.co/8bnMn6TPiO"
+155,PyTorch,1278688243995734029,2020-07-02 13:53:28,Captum is a model interpretability library for PyTorch which offers a number of attribution algorithms that help un… https://t.co/bRbrfZ2MpM
+156,PyTorch,1278491694707564548,2020-07-02 00:52:27,"RT @pytorch_ignite: PyTorch-Ignite v0.4.0 is available with unified support for distributed computation on GPUs and TPUs, simplified Engine…"
+157,PyTorch,1278381798813130752,2020-07-01 17:35:46,"PyTorch Lightning 0.8.4 now provides a Metrics package, for tens of common out of the box metrics (eg. ROC, PR, Con… https://t.co/T2Ot4A1HXk"
+158,PyTorch,1278095423815573504,2020-06-30 22:37:49,"RT @alxndrkalinin: There is already a #PyTorch implementation of the Slot Attention module:
+https://t.co/5JcJdrvwyT https://t.co/ZZKtSeBrys"
+159,PyTorch,1278090905199796224,2020-06-30 22:19:52,PyTorch code by the author @adjiboussodieng at: https://t.co/OgRKxtOWaQ https://t.co/E4EHhkEdqs
+160,PyTorch,1277767886623379462,2020-06-30 00:56:18,RT @francoisfleuret: One more toyish example in @pytorch: The double descent with polynomial regression. (thread) https://t.co/leom927LRD
+161,PyTorch,1277730392980643840,2020-06-29 22:27:19,"RT @allen_ai: We're proud to announce the release of AllenNLP 1.0! #AllenNLP is our free, open-source #NLP library built on #PyTorch, desig…"
+162,PyTorch,1277305148197359617,2020-06-28 18:17:33,The Computer Vision Recipes repository by researchers at Microsoft provides examples and best practice guidelines f… https://t.co/lvDx6w2W8z
+163,PyTorch,1276234723694489600,2020-06-25 19:24:04,Automate the tuning of hyperparameters with PyTorch Ignite using Bayesian Optimisation in Optuna. Learn more: https://t.co/VxOgKGxXbh
+164,PyTorch,1275927259304452096,2020-06-24 23:02:18,"RT @vincesitzmann: We released the code for SIREN!
+
+https://t.co/mSFQIQYcJf
+
+We also wrote a comprehensive Colab notebook with a no-frills…"
+165,PyTorch,1275845490765172743,2020-06-24 17:37:23,Check out this tutorial from the Catalyst team on how to distillate BERT models. Distilling BERT models can minimiz… https://t.co/uIhE6Cdsqr
+166,PyTorch,1275463054604382208,2020-06-23 16:17:43,RT @fepegar_: Here's a fresh @GoogleColab notebook showing how to use TorchIO and a pretrained @PyTorch HighRes3DNet to run a 3D brain parc…
+167,PyTorch,1275070115180998663,2020-06-22 14:16:19,"The Global PyTorch Summer Hackathon is back! This year, teams can compete in 3 categories:
+
+1. Developer Tools
+2. W… https://t.co/QhJu7qtzu9"
+168,PyTorch,1274825079231152128,2020-06-21 22:02:38,"PyTorch Lightning 0.8.1 is now available. This new release includes a PyTorch multi-GPU metrics package, the abilit… https://t.co/80rftsBvg5"
+169,PyTorch,1273663250698141697,2020-06-18 17:05:57,"[v1.5.1] Bug Fix Release: has important fixes for torch.multinomial, nn.Conv2d, cuda asserts and fixes performance… https://t.co/2c8jxW6zYQ"
+170,PyTorch,1273647605235380224,2020-06-18 16:03:46,"RT @facebookai: Tomorrow at #CVPR2020, we’ll be hosting a tutorial featuring PyTorch3D, an open source library for 3D deep learning. Learn…"
+171,PyTorch,1273007663639490560,2020-06-16 21:40:53,"RT @ai2_allennlp: With the 1.0 release, we have an interactive guide: https://t.co/o1If9Lovru. It was inspired by @_inesmontani's python co…"
+172,PyTorch,1273007624242360320,2020-06-16 21:40:43,"RT @wightmanr: After numerous experiments and code tweaks, my #PyTorch EfficientDet impl is finally stable. I've managed to reproduce D0 an…"
+173,PyTorch,1272970202687213568,2020-06-16 19:12:01,"RT @alxndrkalinin: #PyTorch code for DualConvMesh-Net: Joint Geodesic and Euclidean Convolutions on 3D Meshes #cvpr2020
+https://t.co/tSTtNC…"
+174,PyTorch,1272920922819723264,2020-06-16 15:56:12,@allegroAI
+175,PyTorch,1272919483980500999,2020-06-16 15:50:29,"Trigo uses PyTorch and Allegro Trains to build an AI-powered checkout-free system for retailers. In this blog, they… https://t.co/k1IOOOVCMs"
+176,PyTorch,1271112174031695873,2020-06-11 16:08:53,MMF is a modular framework for vision &amp; language multimodal research. This tutorial walks through how to use a pret… https://t.co/d19b6fZdJY
+177,PyTorch,1270883283241299968,2020-06-11 00:59:21,"Catalyst is a PyTorch framework designed for reproducibility, faster experimentation and code/ideas reusing. 
+
+This… https://t.co/H66a3IbpkF"
+178,PyTorch,1270715317900238848,2020-06-10 13:51:55,"RT @saeedhp: Zoom-in&amp;out, our novel 3D segmentation method in @PyTorch, achieved the state of the art performance for outlining stroke lesi…"
+179,PyTorch,1270537574201745409,2020-06-10 02:05:37,"TorchServe v0.1.1 is available with new features and support for HuggingFace BERT, Waveglow, Model Zoo, SnakeViz Pr… https://t.co/ORXg8I0Xj8"
+180,PyTorch,1270384730366590979,2020-06-09 15:58:16,Datarock is using PyTorch to automate the analysis of drill core images from mine sites. They have computer vision… https://t.co/n1ujtor7Sv
+181,PyTorch,1270373368781582336,2020-06-09 15:13:08,RT @andrew_n_carr: Really cool work out of @Microsoft called hummingbird! You can convert traditional #ML models to #Tensor #computations t…
+182,PyTorch,1268623847709802497,2020-06-04 19:21:09,"RT @GraySystemsLab: Curious how you can convert already trained traditional ML models into tensor computations with up to 100x speedup?
+
+Ch…"
+183,PyTorch,1268560137960271873,2020-06-04 15:08:00,RT @D2L_ai: Dive into Deep Learning now supports @PyTorch. The first 8 chapters are ready with more on their way. Thanks to DSG IIT Roorkee…
+184,PyTorch,1265719979606867971,2020-05-27 19:02:13,"The submission date for 2020 CVPR Lower-Power Vision Challenge tracks is now from July 1 to July 31. 
+
+Visit 👉… https://t.co/3dAgMOF3ZI"
+185,PyTorch,1265295021277884418,2020-05-26 14:53:35,"RT @phillip_isola: Sharing two new preprints on the science and theory of contrastive learning:
+
+pdf: https://t.co/sYs46nXTYc
+code: https:/…"
+186,PyTorch,1263937611267223552,2020-05-22 20:59:44,"RT @bhutanisanyam1: Giveaway + Release:
+
+Here's my interview w 3 great contributors to @PyTorch:
+
+All about their book: Deep Learning w PyT…"
+187,PyTorch,1263529344867188737,2020-05-21 17:57:25,"RT @higherpytorch: ∂Hello/∂World!
+This is the dev team for higher,  a @PyTorch library by @facebookAI which facilitates the implementation…"
+188,PyTorch,1263479708789829633,2020-05-21 14:40:11,RT @OzaPrem: Have you ever heard of the Cocktail Party problem? Check out our implementation on how we address the problem using @PyTorch a…
+189,PyTorch,1263468790320443392,2020-05-21 13:56:48,"Hear from users and creators in the PyTorch community as they discuss their needs and thoughts around ML tooling, o… https://t.co/KlaeCRd9bw"
+190,PyTorch,1263182377796263936,2020-05-20 18:58:42,BindsNET is a library used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch. Learn more… https://t.co/C1Ktw34ikZ
+191,PyTorch,1262783182837108738,2020-05-19 16:32:26,"RT @NicolasChaulet: After many months in the making we are releasing Torch Points3D, a @PyTorch framework for deep learning on point clouds…"
+192,PyTorch,1262775646339489793,2020-05-19 16:02:29,"A team at Element Al views detecting road surface defects as a semantic segment problem. In this blog, they walk th… https://t.co/uNDkSgPYVf"
+193,PyTorch,1262768082562330624,2020-05-19 15:32:26,"RT @MSFTResearch: Announcing ZeRO-2 from Microsoft, new memory optimizations in DeepSpeed for training large-scale deep learning models. De…"
+194,PyTorch,1262487843747872768,2020-05-18 20:58:52,RT @kornia_foss: We have recently included a package to work with Epipolar Geometry using #kornia and @PyTorch . Examples and more  towards…
+195,PyTorch,1262473932189446146,2020-05-18 20:03:35,RT @Michael_J_Black: VIBE is the current SOTA method for extracting 3D human meshes from video. The training code is now on-line as is an u…
+196,PyTorch,1262473847242194944,2020-05-18 20:03:15,RT @AngusTurner9: Today the ML team at @WeArePopgun is releasing some of our favorite generative modelling implementations in @PyTorch. Thi…
+197,PyTorch,1261048282341490690,2020-05-14 21:38:34,"RT @catalyst_core: Catalyst 20.05 is here,
+- user-friendly Notebook API
+- improvements for Config API
+- new features: gradient tracking, ex…"
+198,PyTorch,1260986826409553922,2020-05-14 17:34:22,"FlowTron: Improved Text to Speech Engine from NVIDIA
+
+Try it out now!
+Paper: https://t.co/1vMnpQSBbi
+Code:… https://t.co/JvPzkiEFfy"
+199,PyTorch,1260942554046050306,2020-05-14 14:38:26,RT @ctnzr: Announcing Megatron-BERT: a 3.9B parameter model trained with intra-layer model parallelism. State of the art results on the RAC…

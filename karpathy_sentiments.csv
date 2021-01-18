@@ -1,0 +1,229 @@
+,user_id,tweet_id,created_at,text,sentiment
+0,karpathy,1350540365913182209,2021-01-16 20:28:09,"@ArtirKel exactly, the book masquerades as a bio book but it's really about aliens :)",0.6000000238418579
+1,karpathy,1350540136623161344,2021-01-16 20:27:15,"@nsthorat not for one pass of leisurely reading, that's for sure :)",0.5
+2,karpathy,1350535484280197120,2021-01-16 20:08:45,Nick Lane's books are So. Good. https://t.co/zyw0GYpmdu,0.4000000059604645
+3,karpathy,1350524380036513793,2021-01-16 19:24:38,@MCMarlow On FSD EAP builds whenever you drive by anything rare and hit the camera icon on the status bar you’re he… https://t.co/x5NBMQQR6R,-0.20000000298023224
+4,karpathy,1350521778657869824,2021-01-16 19:14:18,@max_hodak Very cool! https://t.co/FnDld5jcM5,0.6000000238418579
+5,karpathy,1350521093493190658,2021-01-16 19:11:34,@jack_dahlgren 😂👌,0.6000000238418579
+6,karpathy,1350518189633937408,2021-01-16 19:00:02,Going through a phase of obsessively trying and evaluating all the flavors of Philz. Today’s “Silken Splendor” is a… https://t.co/cj9MSKZ6TC,0.10000000149011612
+7,karpathy,1350504398833680384,2021-01-16 18:05:14,"@brunoeducsant strange, up for me, can you confirm?",0.0
+8,karpathy,1350503355299205120,2021-01-16 18:01:05,"Because deep learning is so empirical, success in it is to a large extent proportional to raw experimental throughp… https://t.co/p6MjkfpkI2",0.5
+9,karpathy,1349169917463908353,2021-01-13 01:42:29,@NpPreacher @fodiographer Played the first few hours; I adore the Half Life series and grew up with it so I really… https://t.co/rEVa0H74kL,0.6000000238418579
+10,karpathy,1349096805170958339,2021-01-12 20:51:58,"@fodiographer yes I actually have a long history with VR, partly documented https://t.co/6NXEJf9Fvj it continues to… https://t.co/sFjNYdij7E",0.0
+11,karpathy,1348892592205824003,2021-01-12 07:20:29,"@langejanne Pretty sure I watched this one a few days ago, love the ambiance!",0.8999999761581421
+12,karpathy,1348892328325353474,2021-01-12 07:19:26,"@banaszek_jarek +1 I've watched quite a lot of content from Devin, the channel is great, long time subscriber!",0.8999999761581421
+13,karpathy,1348889687839047681,2021-01-12 07:08:57,"eg tonight this random walk around the markets of Cairo, Egypt has been a nice background track to some late night… https://t.co/YMUjJcXezR",0.30000001192092896
+14,karpathy,1348887290286804994,2021-01-12 06:59:25,"Maybe it's because I am travel starved, but I am really getting into and enjoying a growing genre of 4K walking vid… https://t.co/kGqBFQZxhv",0.699999988079071
+15,karpathy,1347270989374058502,2021-01-07 19:56:49,"@HPaulshus @max_hodak @lcamtuf Oh I thought it was very confusing and did not have to be. I had to ""work for it"" -… https://t.co/S8V2KnBerZ",-0.6000000238418579
+16,karpathy,1346561124242657281,2021-01-05 20:56:04,"(the impressiveness of these are to be judged by how out of distribution a prompt/output is likely to be. E.g. ""a c… https://t.co/Odvw8nw9bT",0.0
+17,karpathy,1346558827643080705,2021-01-05 20:46:57,Impressive and surprising https://t.co/9QpeWbhQFU I use those words sparingly https://t.co/X0TC6h4fh2,0.8999999761581421
+18,karpathy,1346140557261688832,2021-01-04 17:04:53,Actually now that I think of it this barely even scratches the surface of the weirdness of inverted computers in a… https://t.co/1isXnkKIdD,-0.20000000298023224
+19,karpathy,1346136298688397314,2021-01-04 16:47:58,@verytiredrobot I had the same reaction 😂🤦‍♂️,-0.30000001192092896
+20,karpathy,1346134712817864708,2021-01-04 16:41:40,@mblondel_ml An inverted ImageNet classifier ConvNet is an excellent (class-conditioned) image generator 🤔. Where t… https://t.co/S7I6wqWF1V,0.30000001192092896
+21,karpathy,1345910145830699013,2021-01-04 01:49:19,@hardmaru arxiv-sanity was supposed to identify just the relevant papers. now the problem is there are also too many of those🤦‍♂️,-0.6000000238418579
+22,karpathy,1345850586969739265,2021-01-03 21:52:39,"@dna_nerd I toggle between them chaotically until I get overwhelmed and then take a break :D More seriously though,… https://t.co/iTPwyZlrOp",0.30000001192092896
+23,karpathy,1345849153302089729,2021-01-03 21:46:57,@topher_batty It is not a vanilla movie to be watched once. It is a kind of characteristic Nolan style puzzle that… https://t.co/FOTQTvfedt,-0.20000000298023224
+24,karpathy,1345847115516268544,2021-01-03 21:38:51,"I somehow missed tenet, a new Nolan movie from back in August. Watched it last night bracing for disappointment bec… https://t.co/W2ZqRkdNyx",-0.4000000059604645
+25,karpathy,1345826301614071808,2021-01-03 20:16:09,8.5 years ago I was training restricted boltzmann machines in Matlab on CPU on my machine below the desk.,-0.4000000059604645
+26,karpathy,1345825991600480257,2021-01-03 20:14:55,"Finding it increasingly hard to keep up with all of the activity in deep learning right now, as # tabs -&gt; \infty an… https://t.co/hspD6ApnML",0.0
+27,karpathy,1345456793686708224,2021-01-02 19:47:51,"@estory1 yes, this was a great episode!",0.8999999761581421
+28,karpathy,1345428633226072064,2021-01-02 17:55:57,"RT @elidourado: New blog post:
+
+Is the Great Stagnation ending?
+What technologies am I watching in the decade ahead?
+Are we going to get li…",0.0
+29,karpathy,1345145717585707008,2021-01-01 23:11:45,just binge watching Journey to the Microcosmos https://t.co/TSZQdohSfj,0.0
+30,karpathy,1344719201274011649,2020-12-31 18:56:55,@ID_AA_Carmack Had the same depressing realization (https://t.co/JFvJla3Zwx). I find that I have to distinguish rea… https://t.co/MRZrEGGRzr,-0.699999988079071
+31,karpathy,1344717187269869568,2020-12-31 18:48:55,"RT @shaunmmaguire: CC @AMPRobotics 
+
+https://t.co/ys3SanMACE",0.20000000298023224
+32,karpathy,1344020905517744128,2020-12-29 20:42:09,"""Do You Love Me?"" new Boston Dynamics video 🤖 https://t.co/rF12KygHLS",0.10000000149011612
+33,karpathy,1342940814742319108,2020-12-26 21:10:15,"@ArtirKel sounds like it, nice list!!",0.8999999761581421
+34,karpathy,1342925914427043842,2020-12-26 20:11:03,wow https://t.co/7YtESxKXgl,0.8999999761581421
+35,karpathy,1342923508670738438,2020-12-26 20:01:29,"Retweeting this one more time because it is so excellent, describes nicely how the mRNA vaccines are a direct hacki… https://t.co/4KLb0aeCp6",0.5
+36,karpathy,1342809900309766144,2020-12-26 12:30:03,RT @kmett: https://t.co/6eRi0tjiPn does a great job breaking down what is in the Pfizer vaccine.,0.4000000059604645
+37,karpathy,1342488783657312256,2020-12-25 15:14:02,"@rivatez 👍 I am halfway through Nine Pints ( https://t.co/h5JrsyAP8F ) atm, recommended.",0.6000000238418579
+38,karpathy,1342463077481115653,2020-12-25 13:31:54,@lee_redden Haha exactly,0.30000001192092896
+39,karpathy,1342260294379315201,2020-12-25 00:06:06,"@shivon If they have enough iron/carbon/chromium/++, and live around solids not float in air/water, and have oxygen… https://t.co/jcbGJh4QCi",0.0
+40,karpathy,1342233550406430723,2020-12-24 22:19:50,@victorpoughon 🤯,0.10000000149011612
+41,karpathy,1342194661381836800,2020-12-24 19:45:18,"“Would aliens also have X?” for almost any X tickles the brain a lot.
+The X that primed it for me just now (again)… https://t.co/YdetfjDUwZ",0.4000000059604645
+42,karpathy,1340188293057527808,2020-12-19 06:52:43,"@kanjun A tweet storm, most likely",0.0
+43,karpathy,1340007841931821058,2020-12-18 18:55:40,RT @paperswithcode: 🎉 Introducing the new Papers with Code newsletter! Our newsletter helps you manage the firehose of new ML papers by hig…,0.4000000059604645
+44,karpathy,1339259265773518848,2020-12-16 17:21:05,"@AravSrinivas seems like a temporary issue than anything fundamental, the class of approaches seems to offer a grad… https://t.co/1nsKVVCCJz",-0.6000000238418579
+45,karpathy,1339255366492717058,2020-12-16 17:05:36,"(the classical robotics and computer graphics stacks are being re-written in neural net modules, typically building… https://t.co/LCnRceukbN",0.10000000149011612
+46,karpathy,1339253194568785920,2020-12-16 16:56:58,"Awesome summary of the very quickly-moving / impressive work in neural rendering, energized by NeRF earlier this ye… https://t.co/GPjRHYwb1O",0.8999999761581421
+47,karpathy,1338592576299929600,2020-12-14 21:11:54,"RT @jasoncrawford: So, the vaccine is here. Have we had any celebrations?",0.0
+48,karpathy,1338590696266104834,2020-12-14 21:04:26,@jasoncrawford I watched the video of the nurse getting vaccine this morning and tried hard to squint to see it (im… https://t.co/QjTEywFYSU,-0.4000000059604645
+49,karpathy,1338280828741189633,2020-12-14 00:33:08,@michael_nielsen it's all about the music :),0.8999999761581421
+50,karpathy,1338275891235835905,2020-12-14 00:13:31,@Kimmy32286423 :),0.800000011920929
+51,karpathy,1338274248037597185,2020-12-14 00:06:59,"If you vibrate the electromagnetic field just right, cars passively awash in the radiation for a while will suddenly drive better.",0.20000000298023224
+52,karpathy,1337979196086185985,2020-12-13 04:34:33,"@gwern @barret_zoph Vanilla equivalent could be generalization from very few examples, given to it eg in style of O… https://t.co/I85BOKNz2s",-0.10000000149011612
+53,karpathy,1337649920560394240,2020-12-12 06:46:08,RT @MoAlQuraishi: My thoughts on AlphaFold2: https://t.co/PXfiAiiJTB,0.0
+54,karpathy,1337202579604815872,2020-12-11 01:08:33,"@venusatuluri @ouraring not quite as bad but did make me buy an IR camera, record videos the entire night + write a… https://t.co/hJZ4DxOoky",-0.20000000298023224
+55,karpathy,1337113782049415168,2020-12-10 19:15:42,@zfescht It let me down ;(,-0.699999988079071
+56,karpathy,1336764897821016065,2020-12-09 20:09:22,"@mat_kelcey haha, been there :D",0.0
+57,karpathy,1336725261740490752,2020-12-09 17:31:52,"@ZzimM ( was an outcome of, among a few other things, re-stumbling and re-reading https://t.co/MIVhAA0Lz1 )",0.0
+58,karpathy,1336724039390281733,2020-12-09 17:27:00,"@ZzimM hah no, actually totally unrelated. But I can always rely on Twitter to re-interpret my random thoughts to b… https://t.co/VJUKmXjbxP",-0.10000000149011612
+59,karpathy,1336720789106642947,2020-12-09 17:14:05,Behind the Rocky Release of Cyberpunk 2077 (partly due to remote work) https://t.co/qORoAKCIRI suuuper looking forw… https://t.co/mN3wHWS5u8,0.0
+60,karpathy,1336575068898357248,2020-12-09 07:35:03,complacency 🤮,-0.30000001192092896
+61,karpathy,1336572562524925952,2020-12-09 07:25:05,RT @speechu: Must read essay from @balajis on tech and storytelling. We are doing a very poor job of evangelizing technology progress. Tech…,-0.20000000298023224
+62,karpathy,1333219419611299840,2020-11-30 01:20:54,"@shubhpachchigar yeah i took it down, sorry. the code is up on my github so you can technically run your own instan… https://t.co/Qv6dmhPu6o",-0.10000000149011612
+63,karpathy,1333217287155847169,2020-11-30 01:12:25,@3blue1brown simple code can often build intuition before too many symbols get involved. the disease is very rare w… https://t.co/QiaIuutYtZ,0.0
+64,karpathy,1332538035716513793,2020-11-28 04:13:19,"@akaDJG There’s only two possible actions in the demo so I used the binary cross entropy, which is equivalent to softmax when C=2",-0.20000000298023224
+65,karpathy,1332016380070092800,2020-11-26 17:40:27,"@rasmusbergpalm Unfortunately I don’t think this works, see one of the first micrograd issues",-0.800000011920929
+66,karpathy,1331834386057105409,2020-11-26 05:37:16,Is there a word for that paranoid feeling you get when you think you may be reading/listening to something generate… https://t.co/9qYCbIbP5B,-0.10000000149011612
+67,karpathy,1331665273049399297,2020-11-25 18:25:16,@_lychrel Oh I just noticed it drops to 0.5 not to 0 or something. HMMMM,-0.10000000149011612
+68,karpathy,1331665147392258048,2020-11-25 18:24:46,@_lychrel Lol! 🤔 Some kind of a temporary logging issue?,0.20000000298023224
+69,karpathy,1331664063269457920,2020-11-25 18:20:28,Was randomly reminded of my (now very old) loss functions Tumblr and got a good laugh out of it again https://t.co/A5NLlPHd8T,0.699999988079071
+70,karpathy,1330949433173843968,2020-11-23 19:00:47,nice! I rarely watch tv shows but I binged through this one (helped by strong nostaliga for times in the high schoo… https://t.co/feDp5JwuY6,0.699999988079071
+71,karpathy,1330430869165666305,2020-11-22 08:40:12,@max_hodak @JakobSchwich looks great! I remember that Noether's theorem during my classical mechanics class as the… https://t.co/9ADcKmJw0E,0.5
+72,karpathy,1329895103347900417,2020-11-20 21:11:15,@rguignar @paulg You could undertake your journey without having children,0.6000000238418579
+73,karpathy,1329893755093086208,2020-11-20 21:05:54,@paulg What is the probability of a future that contains space ships to distant stars but does not contain aging therapeutics 🤔?,-0.20000000298023224
+74,karpathy,1329286184841793536,2020-11-19 04:51:38,"""I should have loved biology"" https://t.co/xJ9dYA33yo good, but actually just barely scratches the surface (and tha… https://t.co/FO2cHQEvqN",-0.30000001192092896
+75,karpathy,1329115984205004801,2020-11-18 17:35:19,RT @pfau: We're excited to share that our paper on making the FermiNet faster and more accurate was accepted to the NeurIPS workshop on ML…,0.699999988079071
+76,karpathy,1329115016725884930,2020-11-18 17:31:28,"80GB A100 🤓. Super solid bump for memory bound workloads, ability to squeeze in extra few B params / gpu, bump the… https://t.co/g1oA7zcpGA",0.5
+77,karpathy,1328600817797132288,2020-11-17 07:28:13,@sanchom exactly - in fact this tweet was sparked by a recent bug that was exactly the accidental duplication of ex… https://t.co/Ex0xX0iV8z,-0.4000000059604645
+78,karpathy,1328547710966743040,2020-11-17 03:57:12,The unambiguously correct place to examine your training data is immediately before it feeds into the network. Take… https://t.co/9s2bMl5S7M,0.4000000059604645
+79,karpathy,1327446010008797187,2020-11-14 02:59:26,@seanjtaylor I prefer to call it “fill in the blanks programming” as imo the big deal / transformation is that some… https://t.co/5PdGtymSwq,-0.10000000149011612
+80,karpathy,1327036503684382720,2020-11-12 23:52:12,RT @kenshirriff: how it started:               how it’s going: https://t.co/R5bPcH1aOQ,0.0
+81,karpathy,1325154823856033793,2020-11-07 19:15:04,"How to become expert at thing:
+1 iteratively take on concrete projects and accomplish them depth wise, learning “on… https://t.co/4UrxzJwA62",0.10000000149011612
+82,karpathy,1324257697336758273,2020-11-05 07:50:13,RT @johnhewtt: #emnlp2020 paper: we give some theoretical insight into the syntactic success of RNN LMs: we prove they can implement bounde…,0.0
+83,karpathy,1324151447089410050,2020-11-05 00:48:01,The cat and mouse games with large language models are going to be fascinating to watch. A recent example (of many)… https://t.co/te4eRpiWvM,0.20000000298023224
+84,karpathy,1323074510338236416,2020-11-02 01:28:39,"@jackclarkSF @indexingai (I found it in @gwern ‘s newsletter, which is excellent)",0.4000000059604645
+85,karpathy,1323070086710652929,2020-11-02 01:11:04,"The second decade of synthetic biology: 2010–2020 | Nature Communications. Great links, perhaps one day I’ll get to… https://t.co/oQcAoTqPXk",0.4000000059604645
+86,karpathy,1320556346513653760,2020-10-26 02:42:22,@deepth_dinesan 👍 I agree with the more general statement that existential risk is more worthy of “problem solving… https://t.co/NoIG30ENUH,0.4000000059604645
+87,karpathy,1320555185702199297,2020-10-26 02:37:45,@macginitie Would you rather I ruin my tweet to make it true?,-0.699999988079071
+88,karpathy,1320554183813066754,2020-10-26 02:33:46,hah seeing the replies I am reminded of https://t.co/2zroIf4soF Where is the NYT front page aging therapeutics tracker?,-0.20000000298023224
+89,karpathy,1320541466112843777,2020-10-26 01:43:14,Aging has 100% mortality rate and no one cares,-0.699999988079071
+90,karpathy,1318994497431240704,2020-10-21 19:16:08,"@Scitator @catalyst_core @pytorch_ignite I know, I know. It's just that the boilerplate and the engineering code co… https://t.co/eVn1Xn3cVS",0.0
+91,karpathy,1318985160117817344,2020-10-21 18:39:02,@alexhorner2002 I expect Elon will cover it during the call shortly :) Definitely very excited to have so many mont… https://t.co/eIvpVVYo4p,0.6000000238418579
+92,karpathy,1318983667784454144,2020-10-21 18:33:06,"PyTorch Lightning ⚡️ looks nice/promising, advocates a refactor of deep learning code that separates out the ""engin… https://t.co/u7yNvc2THO",0.20000000298023224
+93,karpathy,1318348153616101376,2020-10-20 00:27:48,"@MarkTrovinger @patrick_oshag My main was a human mage, my most used alt was a human priest but I had a chance to c… https://t.co/2XrBma0ASr",0.10000000149011612
+94,karpathy,1318345868123140097,2020-10-20 00:18:43,"@patrick_oshag Half Life 2 was a marvel, highly creative/inventive and technologically remarkable. But most of my h… https://t.co/cfD0gQPB8Q",0.20000000298023224
+95,karpathy,1316630854496468992,2020-10-15 06:43:52,@asianskif I thought TikTok algorithm was surprisingly good. YouTube is surprisingly bad.,0.0
+96,karpathy,1316630688867598336,2020-10-15 06:43:12,@cwimberger I’m so sorry ;(,-0.800000011920929
+97,karpathy,1316626159103217664,2020-10-15 06:25:12,@DamianReloaded I only open that kind of stuff in incognito window. A misclick like this is very dangerous,-0.20000000298023224
+98,karpathy,1316625760304525313,2020-10-15 06:23:37,@deepgamingai Guilty on all counts actually ;( ruined my YouTube experience,-0.800000011920929
+99,karpathy,1316625605991915520,2020-10-15 06:23:00,"@dna_nerd Haha! YouTube doesn’t currently think I want to see those. I do, sometimes. But I don’t want YouTube to k… https://t.co/UgGJNDRoVK",-0.20000000298023224
+100,karpathy,1316623857520840705,2020-10-15 06:16:03,@VeniceLove5 too late. I’m still paying the price for that click.,-0.6000000238418579
+101,karpathy,1316622564358197248,2020-10-15 06:10:55,I watched one video on YouTube a while ago on people leaving California and suddenly my every ~10th video recommend… https://t.co/MawgeN064r,0.30000001192092896
+102,karpathy,1315379923750584320,2020-10-11 19:53:07,"Driving up from LA later today, podcast recommendations to cover ~6 hours? Some recent favorites: bio eats world, o… https://t.co/S2wI7czcuS",0.10000000149011612
+103,karpathy,1315192170526072833,2020-10-11 07:27:03,"RT @svlevine: My deep RL course (CS285) now has fall 2020 lectures online, here: https://t.co/Y674PBH6TS
+
+We'll update this each week with…",0.0
+104,karpathy,1314270887269470209,2020-10-08 18:26:12,"RT @paperswithcode: 🎉 Papers with Code partners with arXiv! Code links are now shown on arXiv articles, and authors can submit code through…",0.10000000149011612
+105,karpathy,1313172340197388288,2020-10-05 17:40:58,RT @sedielem: Very excited about the renewed focus on iterative refinement as a powerful tool for generative modelling! Here are a few rele…,0.30000001192092896
+106,karpathy,1312852076959940608,2020-10-04 20:28:21,"Great source of reading pointers, as usual! 
+~75% of papers now use PyTorch, still positively trending. 1,000 compa… https://t.co/45rGcfOWr7",0.6000000238418579
+107,karpathy,1312806343812636672,2020-10-04 17:26:37,@Scitator @PyTorch Lol 🤦‍♂️,0.4000000059604645
+108,karpathy,1312802714275909633,2020-10-04 17:12:12,"@EarthshineGame Looks like a beautiful mix of some of the best parts of other favorites, looking forward to it!!",0.8999999761581421
+109,karpathy,1312556610611367936,2020-10-04 00:54:16,"@ChrSzegedy @volokuleshov Very interesting! ""Our work naturally poses many future research questions. Could the pri… https://t.co/fSGNbi7NOK",0.4000000059604645
+110,karpathy,1312546529639448576,2020-10-04 00:14:13,"@volokuleshov @ChrSzegedy the patches thing is kinda weird and spurious imo, see https://t.co/T0qelXZtRS",-0.30000001192092896
+111,karpathy,1312542331946450946,2020-10-03 23:57:32,@volokuleshov @ChrSzegedy Oriol claim is actually not strong enough. We’re being freed from having to arrange computation along space.,-0.20000000298023224
+112,karpathy,1312539880065396736,2020-10-03 23:47:47,"@ChrSzegedy @AravSrinivas @volokuleshov Throw in whatever. From multiple scales, from other modalities, from back i… https://t.co/6R6e45Zc0b",0.30000001192092896
+113,karpathy,1312538500856594432,2020-10-03 23:42:19,"@wightmanr The 16x16 patches thing is kind of spurious baseline, I’m a bigger fan of their hybrid model with resnet… https://t.co/lMrnAUibHH",0.20000000298023224
+114,karpathy,1312533393305792513,2020-10-03 23:22:01,"@volokuleshov @ChrSzegedy There’s much more to it than latency and perf too, transformers are a significantly more… https://t.co/6EjkxuZiRA",0.4000000059604645
+115,karpathy,1312462050912731136,2020-10-03 18:38:31,@AravSrinivas @vivnat @tingchenai Relative positional embeddings may be more necessary and show greater gains compa… https://t.co/nqhJ1OUJfY,0.20000000298023224
+116,karpathy,1312456614771740672,2020-10-03 18:16:55,"@AravSrinivas @tingchenai yes agree, the fact that one can get away with a global avg pool at the top of resnets hi… https://t.co/edPRqWNfFm",0.6000000238418579
+117,karpathy,1312453099529801729,2020-10-03 18:02:57,@OriolVinyalsML @ilyasut MultiHeadedSelfAttentionNets doesn't quite roll off the tongue like ConvNets did 🤦‍♂️ Tran… https://t.co/t1YIVToPuP,-0.5
+118,karpathy,1312452401933082624,2020-10-03 18:00:11,"@tingchenai Yep, looks like this is exactly the trick they reveal in the paper - enough data is necessary to learn… https://t.co/n2247cFHbL",-0.10000000149011612
+119,karpathy,1312287663760666624,2020-10-03 07:05:34,"This is coming from the just-released ICLR 2021 submissions, which are now up: https://t.co/qnOzp0rumg this will ta… https://t.co/vEooZwRso4",-0.10000000149011612
+120,karpathy,1312279279741276161,2020-10-03 06:32:15,An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale https://t.co/r5a0RuWyZE v cool. Further… https://t.co/BZ4dChr3pz,0.30000001192092896
+121,karpathy,1311894640644116480,2020-10-02 05:03:50,"Amisingly, sorting ascending does the same 50% of the time, too. Eg revealing “empty” examples where your loss mask… https://t.co/dagmQ6c33p",-0.4000000059604645
+122,karpathy,1311884485676294151,2020-10-02 04:23:29,"When you sort your dataset descending by loss you are guaranteed to find something unexpected, strange and helpful.",0.20000000298023224
+123,karpathy,1309897031951941632,2020-09-26 16:46:03,RT @Tbeltramelli: Should you deploy and use Semi-Supervised Learning in production? Here are some of our learnings at @uizardIO written by…,0.0
+124,karpathy,1308825492384935936,2020-09-23 17:48:08,The Decline of Blizzard https://t.co/LYSdn0PLFN hurts deeeep inside to watch. I grew up with these universes. A par… https://t.co/eEC688PzIu,0.10000000149011612
+125,karpathy,1308662943639191552,2020-09-23 07:02:14,I Grew Real Spider Silk Using Yeast https://t.co/Idu3IuxnEQ suuuper cooool 🕷🕸🧬🦠,0.10000000149011612
+126,karpathy,1307022768827891712,2020-09-18 18:24:46,"ICML 2020: 2,030 machine learning presentations from mid-July https://t.co/TeKPUgejLf better than Netflix :)",0.699999988079071
+127,karpathy,1306301977840635904,2020-09-16 18:40:36,"RT @ytay017: Inspired by the dizzying number of efficient Transformers (""x-formers"") models that are coming out lately, we wrote a survey p…",0.10000000149011612
+128,karpathy,1305541574776954881,2020-09-14 16:19:01,"@tylercowen reminded of one of my favorite quotes from Contact (film):
+
+Rank (forcefully): ""Excuse me, Miss. We kno… https://t.co/gpVbnoSomH",0.0
+129,karpathy,1305312717364887552,2020-09-14 01:09:38,"@ethancaballero @crude2refined @SethVNeel transformer processes input sets (a very general object), has built-in pa… https://t.co/J2TrDnD3kv",0.20000000298023224
+130,karpathy,1305310421973446656,2020-09-14 01:00:30,"@crude2refined @SethVNeel not specifically this post because the idea is clear and simple enough, but yes it is a n… https://t.co/qZgHMrRUZo",0.0
+131,karpathy,1305306119372300290,2020-09-14 00:43:24,"feels like a lot is kicked up in dust, and the closest we've come to a full refactor of your typical neural net. 
+s… https://t.co/jQwMp1upUb",-0.10000000149011612
+132,karpathy,1305302243449516032,2020-09-14 00:28:00,"Transformers 🔥🚀. Specifically, organizing information processing into multiplicative message passing in graphs; gen… https://t.co/EFxSOuNKn9",0.20000000298023224
+133,karpathy,1304866580690427904,2020-09-12 19:36:50,RT @gradientpub: Researcher @chaitjo describes how the popular Transformer architecture is actually a Graph Neural Network in disguise! Thi…,0.0
+134,karpathy,1304494336269139969,2020-09-11 18:57:40,"@sama - The Black Cloud by Hoyle
+- His Master's Voice by Lem
+- Profiles of the Future by Clarke
+- The Molecular Bio… https://t.co/YGQjvgYDyo",0.0
+135,karpathy,1304353087277035521,2020-09-11 09:36:24,"RT @MSFTResearch: DeepSpeed continues to innovate, making its tools more powerful while broadening its reach. Learn how it now powers 10x b…",0.0
+136,karpathy,1304150743549648902,2020-09-10 20:12:21,"The adversarial attack on human psychology is not only AI-powered. E.g. Twitter/FB allow massive ""focusing lens"" ef… https://t.co/NqzWflkMEs",-0.10000000149011612
+137,karpathy,1304148139486490624,2020-09-10 20:02:01,"RT @tristanharris: Our new documentary film #TheSocialDilemma arrives on Netflix tomorrow, Weds Sept 9th!
+
+Truly hope it will become an ""In…",0.5
+138,karpathy,1304142058345512960,2020-09-10 19:37:51,Watched @SocialDilemma_ last night. A very highly unsettling documentary. I shudder to think about what happens whe… https://t.co/tG8zuR6TH7,-0.10000000149011612
+139,karpathy,1304139523421396992,2020-09-10 19:27:46,"RT @madlag: Today I am excited to release pytorch-block-sparse: a *drop-in* replacement of @PyTorch Linear with GPU-efficient sparsity:
+
+75…",0.30000001192092896
+140,karpathy,1303397351000690688,2020-09-08 18:18:39,"RT @DanHendrycks: How multipurpose is #GPT3? We gave it questions about elementary math, history, law, and more. We found that GPT-3 is now…",0.10000000149011612
+141,karpathy,1303101845116649472,2020-09-07 22:44:24,"Exceedingly excellent Ampere GPU commentary, as always from @Tim_Dettmers 👌👌, effectively required reading for deep… https://t.co/IWbx6Ujv4a",0.699999988079071
+142,karpathy,1302427281642536960,2020-09-06 02:03:56,"RAFT: Recurrent All Pairs Field Transforms for Optical Flow https://t.co/l7dfHUycS4 ECCV 2020 best paper award, fun… https://t.co/mvdKkKI3fp",0.5
+143,karpathy,1301189018701320193,2020-09-02 16:03:31,RT @colinraffel: The only measure of intelligence I'm comfortable with is perplexity https://t.co/1nTL7I4uc9,0.10000000149011612
+144,karpathy,1300846373756006400,2020-09-01 17:21:58,"@WhyEnggWhy I know right. I definitely wrote it with that in mind, but I did not imagine it would be so long until I got around to it.",0.0
+145,karpathy,1299977998938943488,2020-08-30 07:51:22,@therayfdj thanks Ray,0.800000011920929
+146,karpathy,1299977764167057408,2020-08-30 07:50:26,"thanks everyone, I was luckily able to find a snapshot in the .ipynb_checkpoints/ folder. You know that annoying th… https://t.co/6U9X57fRoM",0.0
+147,karpathy,1299974767991091200,2020-08-30 07:38:31,@RahulJha2404 haha so that actually worked :D. I can't believe this annoying folder I've been adding to my .gitigno… https://t.co/QaTDUmns1Z,0.0
+148,karpathy,1299973332524126209,2020-08-30 07:32:49,"I'm still shook. Some jupyter hotkey, somehow held down with my left palm, just iteratively deletes everything and… https://t.co/j0IGaiaI7H",-0.699999988079071
+149,karpathy,1299972064426651650,2020-08-30 07:27:47,so I accidentally held down something and deleted all cells in this jupyter notebook I've been building for ~2 mont… https://t.co/FAxHwoJnxi,-0.20000000298023224
+150,karpathy,1299921324333170689,2020-08-30 04:06:09,"good quick tutorial on optimizing your PyTorch code ⏲️: https://t.co/7CIDWfrI0J 
+quick summary: https://t.co/6J1SJcWJsl",0.699999988079071
+151,karpathy,1299414250792931329,2020-08-28 18:31:13,The samples from these new diffusion models look great indeed https://t.co/RXelMlrzX9,0.8999999761581421
+152,karpathy,1298494275341045762,2020-08-26 05:35:34,"3D print some little robots, strap on electronics, have your iPhone++ stream intelligence to them. They can all run… https://t.co/gHaEYSzSet",0.20000000298023224
+153,karpathy,1298492963782160385,2020-08-26 05:30:22,"OpenBot https://t.co/XLSvXAibCI cool! I like the trend of increasingly ""edgy"" (hah!) brains that breathe life into… https://t.co/ABLMsDEzgH",0.8999999761581421
+154,karpathy,1297718122913308673,2020-08-24 02:11:25,"“For all x, p(x)”
+“Actually, there exists an x, !p(x)”
+my least favorite conversation",-0.6000000238418579
+155,karpathy,1297331690033909761,2020-08-23 00:35:52,Added a new demo to minGPT that trains a GPT on pixels of CIFAR-10 images instead of text. Quite powerful that one… https://t.co/Vhekg8s4VH,0.30000001192092896
+156,karpathy,1297293584866013184,2020-08-22 22:04:27,"@yaringal when the model does say ""I don't know ask an expert"" the hard part is knowing whether that's just the lik… https://t.co/O491W41WhP",-0.30000001192092896
+157,karpathy,1297253371062099973,2020-08-22 19:24:40,@yaringal A related dream of mine is that you could eg describe the algorithm for addition in the prompt and see it… https://t.co/lVsJe7XTta,0.699999988079071
+158,karpathy,1297250927829606400,2020-08-22 19:14:57,@yaringal GPT could say that but still not for the “right” reasons as you’d imagine them. It’s a document completor… https://t.co/itqnUXTqwQ,-0.10000000149011612
+159,karpathy,1297235768528650241,2020-08-22 18:14:43,@max_hodak @ShellyFan,0.30000001192092896
+160,karpathy,1296860323098460160,2020-08-21 17:22:50,Nice!! Love all of the open AI work from @huggingface ;) https://t.co/vw4uDViQm8,0.699999988079071
+161,karpathy,1296138873530019840,2020-08-19 17:36:03,"@_willfalcon @PyTorchLightnin ""we were all burned by keras at some point"" haha exactly 🔥 it's a complicated love hate relationship.",0.30000001192092896
+162,karpathy,1296127804723978240,2020-08-19 16:52:04,"@_willfalcon @PyTorchLightnin great, I hope to take a look later in the today! I'm a bit hesitant when it comes to… https://t.co/dTxnHugLUg",0.10000000149011612
+163,karpathy,1295425476765208577,2020-08-17 18:21:16,"@ChrSzegedy ""need access"" ;(",-0.6000000238418579
+164,karpathy,1295414551727333376,2020-08-17 17:37:51,@thawani_avijit No because in this from-scratch implementation focused on addition I am in full charge of tokenizat… https://t.co/xrx41Y9AIt,0.10000000149011612
+165,karpathy,1295412114215952384,2020-08-17 17:28:10,"I have yet to more extensively play with the addition demo, which I find very amusing. E.g. the example 2-layer 4-h… https://t.co/bHq44XR601",0.30000001192092896
+166,karpathy,1295410274095095810,2020-08-17 17:20:51,"I wrote a minimal/educational GPT training library in PyTorch, am calling it minGPT as it is only around ~300 lines… https://t.co/ydwJYWqbWS",-0.30000001192092896
+167,karpathy,1292871845096517633,2020-08-10 17:14:02,"RT @jcjohnss: Videos for my Fall 2019 course ""Deep Learning for Computer Vision"" are now on YouTube!
+
+This is an evolution of @cs231n that…",0.10000000149011612
+168,karpathy,1292594335926456321,2020-08-09 22:51:19,RT @sapinker: Thoughts on the 75th anniversary of Nagasaki. 1. We should savor the pleasant surprise that no nuclear weapon has been detona…,0.0
+169,karpathy,1292550526089871361,2020-08-09 19:57:14,If time is so valuable why delegate attention filters to crappy AI rankers #teamhuman,-0.6000000238418579
+170,karpathy,1292547972916342785,2020-08-09 19:47:05,Maybe if you could hire someone to curate your twitter feed... 🤔,-0.30000001192092896
+171,karpathy,1292546707956174848,2020-08-09 19:42:04,@jackclarkSF @invokerk1771 &lt;3 the thread! 0.47 minutes btw not seconds. But maybe one day :),0.20000000298023224
+172,karpathy,1292241420011442176,2020-08-08 23:28:57,"Against the thigh of your pocket, at times suddenly unsure if it had just vibrated",0.0
+173,karpathy,1292240434958221313,2020-08-08 23:25:03,"The phone face up next to you, with the simmering 0.01% probability that the display might light up any second with something new",-0.10000000149011612
+174,karpathy,1292239731707666432,2020-08-08 23:22:15,Notifications. Masquerading as tiny and helpful but in reality psychologically invasive and damaging to the brain -… https://t.co/CFo80JNRwK,-0.4000000059604645
+175,karpathy,1292189178793402369,2020-08-08 20:01:22,"Nice paper list from @colinraffel for his upcoming seminar ""COMP790: (Deep) Learning with Limited Labeled Data (DL3… https://t.co/Nsw88CpFGr",0.6000000238418579
+176,karpathy,1291967144343638016,2020-08-08 05:19:05,https://t.co/ChF8ZGIdD3,0.30000001192092896
+177,karpathy,1291966485124935682,2020-08-08 05:16:28,@Austen agree :( i was never able to get as good of a fit/feel with pros and preferred tapping to squeezing,0.0
+178,karpathy,1291867082288533504,2020-08-07 22:41:28,"@HrishikeshGaru1 fixed. that was weird, the server just randomly went down haven't seen that before.",-0.20000000298023224
+179,karpathy,1291414594884268032,2020-08-06 16:43:27,"RT @duck: Our paper, “NeRF in the Wild”, is out! NeRF-W is a method for reconstructing 3D scenes from internet photography. We apply it to…",0.0
+180,karpathy,1290826075916779520,2020-08-05 01:44:53,Writing better code with PyTorch and einops https://t.co/GTIWdttOhu 👌,0.20000000298023224
+181,karpathy,1288186764805332993,2020-07-28 18:57:12,@sedielem my personal preference would be to literally render the text and use tiny convnet encoders,-0.699999988079071
+182,karpathy,1288173041113956353,2020-07-28 18:02:40,"Good post on the use of BPE (byte pair encodings) for I/O of language models, pointing out subtle under-the-hood de… https://t.co/wu0azTVFUv",0.6000000238418579
+183,karpathy,1287436760813727745,2020-07-26 17:16:57,@AravSrinivas @gwern @Ted_Underwood @gdb @ilyasut they are functionally incapable of (among many other interesting programs),-0.6000000238418579
+184,karpathy,1287274173945937927,2020-07-26 06:30:54,"when asked about ways to lessen our impact on Earth, typical person will suggest taking shorter showers or turning… https://t.co/2CEMWC9xPo",0.0
+185,karpathy,1287272976623136768,2020-07-26 06:26:08,"""A vegan diet is probably the single biggest way to reduce your impact on planet Earth, not just greenhouse gases,… https://t.co/K2c8Qi0pjh",0.0
+186,karpathy,1286866079252283392,2020-07-25 03:29:16,"EUV 🔥🔥 ""Weighs 180 tons and consumes more than 1 MW electrical power. It costs $120 million and is sold out for yea… https://t.co/9EFCsGSi5X",-0.4000000059604645
+187,karpathy,1286772328852987904,2020-07-24 21:16:44,"RT @devonzuegel: I'm starting a podcast with my favorite urban economists, Alain and Marie-Agnes Bertaud
+
+We've recorded the first two epis…",0.10000000149011612
+188,karpathy,1286771651535728640,2020-07-24 21:14:03,RT @binarybits: I'm glad this trend is gaining steam. The fundamental thing driving it is that a click is worth just pennies to an ad-suppo…,0.30000001192092896
+189,karpathy,1286739154022174720,2020-07-24 19:04:55,"dealing with day-to-day work minutia in the middle of 2020 generally and NYT articles of UFOs and retrieved ""off-wo… https://t.co/7wpcsJk8YH",0.10000000149011612
+190,karpathy,1286128692184248320,2020-07-23 02:39:09,@rbhar90 Will somewhat depend on what fraction of tasks/applications are loosely speaking in NP (verifiable by a human quickly),0.0
+191,karpathy,1285269198575292416,2020-07-20 17:43:50,@lkhphuc @pHequals7 @hardmaru @slashML that was a few lifetimes ago :) fun story I was cubing with a friend for fun… https://t.co/cQVly50V1G,0.6000000238418579
+192,karpathy,1284948198398689280,2020-07-19 20:28:18,"@travbrack @jonharel @ykilcher I'd expect it more to be a memorization of parts than of full individual instances,… https://t.co/BmbNqzFBkw",-0.30000001192092896
+193,karpathy,1284930773833801728,2020-07-19 19:19:03,@gwern I'm not a huge fan of universality arguments and I think inductive biases matter in our gradient-based optim… https://t.co/obyhlxY0Wi,-0.20000000298023224
+194,karpathy,1284928564530278400,2020-07-19 19:10:17,The transformer architecture of GPT upper bounds its ability at memorization. It cannot learn many algorithms due t… https://t.co/bQckXLWaag,-0.20000000298023224
+195,karpathy,1284906311969157121,2020-07-19 17:41:51,@kevinsmouts 😐 wow.,0.699999988079071
+196,karpathy,1284724362034077696,2020-07-19 05:38:51,"Saturday night 🤷‍♂️ Just in case a future AI overlord is reading this, overall it is very impressive and great, eve… https://t.co/o0grPdhv8W",0.8999999761581421
+197,karpathy,1284662268513247233,2020-07-19 01:32:07,@badccvoid NPC interactions perhaps 🤷‍♂️🤔,0.0
+198,karpathy,1284660899198820352,2020-07-19 01:26:40,By posting GPT generated text we’re polluting the data for its future versions,-0.800000011920929
+199,karpathy,1284548799222804480,2020-07-18 18:01:14,Instead of delete buttons we should have keep buttons.,-0.6000000238418579
