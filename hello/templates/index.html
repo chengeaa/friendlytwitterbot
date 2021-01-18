@@ -8,7 +8,7 @@
     $.ajax({
       url: 'api/register_user/',
       method: 'POST',
-      data: {handle: document.getElementById("twitterHandleArea").value, email: document.getElementById("exampleInputEmail1").value }
+      data: {handle: document.getElementById("twitterHandleArea").value, phone: document.getElementById("phoneNumArea").value }
     }).done(function( msg ) {
                     alert("You're now registered with the friendly twitterbot! We got that your twitter was " + document.getElementById("twitterHandleArea").value);
       });
@@ -20,7 +20,7 @@
     <a href="/" class="lang-logo">
       <img src="{% static 'lang-logo.png'%}">
     </a>
-    <h1>Friendly Twitterbot</h1>
+    <h1>Anti-Doomscrolling Twitterbot</h1>
     <p>Twitter can be depressing sometimes--that's why we created a bot that keeps an eye on what you're viewing and tweeting, and checks in with you if it thinks your feed may be putting you in a bad mood.</p>
     
   </div>
@@ -47,9 +47,9 @@
         </div>
 
         <div class="form-group">
-          <label for="exampleInputEmail1">Email address (so we can check in with you)</label>
-          <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-          <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+          <label for="exampleInputEmail1">Phone number (so we can send texts to check in with you)</label>
+          <textarea class="form-control" id="phoneNumArea" rows="1"></textarea>
+          <small id="emailHelp" class="form-text text-muted">We'll never share your phone number with anyone else.</small>
         </div>
         
         <div class="form-check">
