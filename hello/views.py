@@ -52,6 +52,9 @@ def analyzeUserTwitter(request):
 	elif user_sentiment < -0.5:
 		# send a meditation tips article
 		msg = "Twitter got you down? Here's some tips on how to refocus your mind and stay positive :) https://www.mindful.org/how-to-meditate/"
+		send_text(msg, phone_num)
+                userfriends = load_friends(twitterHandle)
+                message_friend(twitterHandle, userfriends)
 
 
 	return render(request, "index.html")
