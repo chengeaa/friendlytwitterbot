@@ -1,0 +1,9 @@
+consumer_key = "OCBgep22XNEwpgsKcsqqhkU72"
+consumer_secret = "ehstWliYahDkoT0Yjgd6PEvrndgUSarXQk8BsGoxIRCTcGSchc"
+access_key = "2934227960-3aiJuX1kTAjWkVoX4fd1t2tDkFnE7ohljg8dmp5"
+access_secret = "xijgWupoXu4FcS7lBu1Z7MnCvOXnbQ3vJ2wzrmqkcCwMJ"
+
+#consumer_key="lYSZH0Il5MJllRwZrER53IGh0"
+#consumer_secret="2LdlGGJV32AsFT0GyfFNoZ62eSlqvzzAIPsNvh20hnYFBX9zmv"
+#access_key="2934227960-WIMtfSHbdZJsh6dF4jPZVNHNdMzRsoFAVgqh5eB"
+#access_secret="eN48xAnWX4vdQDF80rPFKg4rWMjszCfXkSxpWWTBwy5DT"
