@@ -98,24 +98,6 @@ def get_sentiment(text_content):
     encoding_type = language_v1.EncodingType.UTF8
 
     response = client.analyze_sentiment(request = {'document': document, 'encoding_type': encoding_type})
-    # Get overall sentiment of the input document
-#    print(u"Document sentiment score: {}".format(response.document_sentiment.score))
-#    print(
-#        u"Document sentiment magnitude: {}".format(
-#            response.document_sentiment.magnitude
-#        )
-#    )
-    # Get sentiment for all sentences in the document
-#    for sentence in response.sentences:
-#        print(u"Sentence text: {}".format(sentence.text.content))
-#        print(u"Sentence sentiment score: {}".format(sentence.sentiment.score), end = "; ")
-#        print(u"Sentence sentiment magnitude: {}".format(sentence.sentiment.magnitude))
-
-    # Get the language of the text, which will be the same as
-    # the language specified in the request or, if not specified,
-    # the automatically-detected language.
-#    print(u"Language of the text: {}".format(response.language))
-    #print('getting sentiment for', text_content[:10])
 
     return response.document_sentiment.score, response.document_sentiment.magnitude
 
@@ -129,4 +111,18 @@ def get_friends(screen_name):
 def load_friends(screen_name):
     """load friends of user from saved csv"""
     return pd.read_csv(f"{screen_name}_friends.csv")
+
+
+def message_friend(user, friends):
+    """ send a friendly DM to a friend """ 
+
+    friend = np.random.choice(friends)
+
+    # text to be sent
+    text = "hi from friendly bot :) your pal {} looks like they could use a friend right now. reach out and have a nice conversation!".format(user)
+
+    # sending the direct message
+    direct_message = api.send_direct_message(friend, text)
+
+
 
