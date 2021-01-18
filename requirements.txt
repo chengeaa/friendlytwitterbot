@@ -7,4 +7,4 @@ pandas
 numpy
 twilio
 tweepy
-google
+google-cloud-language
