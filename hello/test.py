@@ -1,3 +1,3 @@
-from main import *
+from .main import *
 
 print(main('elonmusk', True))
