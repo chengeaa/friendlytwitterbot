@@ -1,5 +1,6 @@
 import tweepy #https://github.com/tweepy/tweepy
 import csv
+import numpy as np
 
 import pandas as pd
 
@@ -11,7 +12,7 @@ auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_key, access_secret)
 api = tweepy.API(auth)
 
-def get_tweets(screen_name):
+def get_tweets(screen_name, limit = 100):
     """
     Takes a screen name, returns a df of their recent tweets.
     Also saves it as a csv of tweets in  new_{screen_name}_tweets.csv
@@ -31,11 +32,11 @@ def get_tweets(screen_name):
     oldest = alltweets[-1].id - 1
     
     #keep grabbing tweets until there are no tweets left to grab or we've hit 200 tweets
-    while len(new_tweets) > 0 and len(alltweets) < 200:
+    while len(new_tweets) > 0 and len(alltweets) < limit:
         print(f"getting tweets before {oldest}")
         
         #all subsiquent requests use the max_id param to prevent duplicates
-        new_tweets = api.user_timeline(screen_name = screen_name,count=200,max_id=oldest)
+        new_tweets = api.user_timeline(screen_name = screen_name,count=limit,max_id=oldest)
         
         #save most recent tweets
         alltweets.extend(new_tweets)
@@ -61,7 +62,7 @@ def get_tweets(screen_name):
  
 
 def load_tweets(screen_name):
-    return pd.read_csv(f"new_{screen_name}_tweets.csv")
+    return pd.read_csv(f"new_{screen_name}_tweets.csv", index_col = 0)
 def get_sentiment(text_content):
     """
     Analyzing Sentiment in a String
@@ -106,6 +107,7 @@ def get_sentiment(text_content):
     # the language specified in the request or, if not specified,
     # the automatically-detected language.
 #    print(u"Language of the text: {}".format(response.language))
+    print('getting sentiment for', text_content[:10])
 
     return response.document_sentiment.score, response.document_sentiment.magnitude
 
