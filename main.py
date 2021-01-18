@@ -38,7 +38,7 @@ def main(user, analyze_friends = False):
         user_average_sentiment = np.mean(sentiments)
         user_tweets.to_csv("with sentiment.csv")
 
-    friend_tweets = {}
+
     for friend in friends['friends']:
         try:
             friend_tweets[friend] = pd.read_csv(f"{friend}_sentiments.csv")
