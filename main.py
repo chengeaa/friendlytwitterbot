@@ -53,7 +53,7 @@ def main(user, analyze_friends = False):
 
     network_average_sentiment = np.mean(friendsentiments)
 
-    print("user sentiment =" user_average_sentiment)
+    print("user sentiment =", user_average_sentiment)
     try:
         print(network_average_sentiment)
         return user_average_sentiment, network_average_sentiment
