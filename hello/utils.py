@@ -115,7 +115,7 @@ def get_sentiment(text_content):
     # the language specified in the request or, if not specified,
     # the automatically-detected language.
 #    print(u"Language of the text: {}".format(response.language))
-    print('getting sentiment for', text_content[:10])
+    #print('getting sentiment for', text_content[:10])
 
     return response.document_sentiment.score, response.document_sentiment.magnitude
 
