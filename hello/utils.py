@@ -4,9 +4,17 @@ import numpy as np
 
 import pandas as pd
 
-from keys import *
+# from keys import *
 
 from google.cloud import language_v1
+
+consumer_key = os.environ['TWITTER_CONSUMER_KEY']
+consumer_secret = os.environ['TWITTER_CONSUMER_SECRET']
+
+access_key = os.environ['TWITTER_ACCESS_KEY']
+access_secret = os.environ['TWITTER_ACCESS_SECRET']
+
+
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_key, access_secret)

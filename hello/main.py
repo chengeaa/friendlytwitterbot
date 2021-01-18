@@ -1,4 +1,4 @@
-from utils import *
+from .utils import *
 
 def main(user, analyze_friends = False):
 
