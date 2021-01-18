@@ -1,6 +1,6 @@
 from utils import *
 
-def main(user, analyze_friends = False)
+def main(user, analyze_friends = False):
 
     try:
         user_tweets = load_tweets(user)
