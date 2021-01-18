@@ -6,3 +6,5 @@ djangorestframework
 pandas
 numpy
 twilio
+tweepy
+google-cloud-language
