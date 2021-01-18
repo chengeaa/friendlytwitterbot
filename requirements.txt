@@ -6,3 +6,4 @@ djangorestframework
 pandas
 numpy
 twilio
+tweepy
