@@ -8,4 +8,3 @@ numpy
 twilio
 tweepy
 google-cloud-language
-os
