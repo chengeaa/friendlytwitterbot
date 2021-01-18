@@ -47,11 +47,11 @@ def analyzeUserTwitter(request):
 	user_sentiment, network_sentiment = main(twitterhandle, analyze_friends = True)
 	if user_sentiment < -0.1 and user_sentiment > -0.5: # threshold for very minorly negative sentiment
 		# send a text to the user with a positive news article
-		msg = "Despite what Twitter might make you think, there's also good news out there in the world! "
+		msg = "Despite what Twitter might make you think, there's also good news out there in the world! https://www.goodnewsnetwork.org/swinhoes-turtle-the-most-endangered-on-earth-found-in-vietnam/"
 		send_text(msg, phone_num)
 	elif user_sentiment < -0.5:
 		# send a meditation tips article
-		msg = "Twitter got you down? Here's some tips on how to refocus your mind and stay positive :) "
+		msg = "Twitter got you down? Here's some tips on how to refocus your mind and stay positive :) https://www.mindful.org/how-to-meditate/"
 
 
 	return render(request, "index.html")
