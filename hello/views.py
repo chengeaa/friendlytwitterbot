@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 from rest_framework.decorators import api_view
+from .main import main
 
 from .models import Greeting
 
@@ -37,6 +38,11 @@ def analyzeUserTwitter(request):
 	if "@" in twitterhandle:
 		# something's terribly wrong here :(
 		return -1
+
+	output = main(twitterhandle, analyze_friends = False)
+
+	return render(request, "index.html")
+
 
 
 	
